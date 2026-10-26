@@ -1,5 +1,9 @@
 # Metal Atlas & Rock Atlas
 
+[![CI](https://github.com/Neroje21/Music-Atlas/actions/workflows/ci.yml/badge.svg)](https://github.com/Neroje21/Music-Atlas/actions/workflows/ci.yml)
+
+**Live site: <https://neroje21.github.io/Music-Atlas/>**
+
 Two visual explorers for loud music in one site: pick an atlas (**Metal** or **Rock**), pick a subgenre, meet its **Band of the Day**, browse the roster, and open any band for its lineup history, discography with full tracklists, and streaming links.
 
 **2 atlases · 32 subgenres · 498 bands · 3,400+ albums · 37,000+ tracks**
@@ -39,10 +43,12 @@ Set `SITE_URL` (see [`.env.example`](.env.example)) when deploying so `robots.tx
 
 ## Deploy to GitHub Pages
 
-The site can be published as a static export; the included workflow does it for you.
+The site can be published as a static export; the included workflow does it for you. This repository is deployed at <https://neroje21.github.io/Music-Atlas/>, and every push to `main` redeploys it (progress is on the repository's **Actions** tab).
+
+To set it up for a copy of this repository:
 
 1. Push the repository to GitHub (branch `main`).
-2. In the repository, open **Settings → Pages** and set **Source** to **GitHub Actions**.
+2. In the repository, open **Settings → Pages** and set **Source** to **GitHub Actions**. Until you do, the **Deploy to GitHub Pages** workflow fails at its first step.
 3. Push to `main` (or run the **Deploy to GitHub Pages** workflow by hand). The site appears at `https://<user>.github.io/<repository>/`.
 
 What the Pages build does differently, switched on by `GITHUB_PAGES=true` in [`next.config.ts`](next.config.ts) so a normal build is unaffected: it exports plain files (`output: "export"`), serves them under `/<repository>/` (`BASE_PATH`), and turns Cache Components off, which static export can't use.
