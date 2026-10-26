@@ -1,0 +1,8 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 568 120" width="568" height="120" role="img" aria-label="Sacred Reich">
+  <defs>
+    <filter id="shadow" x="-10%" y="-20%" width="120%" height="150%">
+      <feDropShadow dx="0" dy="4" stdDeviation="5" flood-color="#000" flood-opacity="0.85"/>
+    </filter>
+  </defs>
+  <text x="20" y="92" font-family="Impact, 'Arial Black', Georgia, serif" font-size="82" font-weight="900" fill="#ececec" stroke="#000" stroke-width="4" paint-order="stroke" textLength="528" lengthAdjust="spacingAndGlyphs" filter="url(#shadow)">SACRED REICH</text>
+</svg>

@@ -1,0 +1,42 @@
+{
+  "name": "metal-discovery",
+  "version": "0.1.0",
+  "description": "Metal Atlas and Rock Atlas: visual explorers for metal and rock subgenres and bands.",
+  "private": true,
+  "type": "module",
+  "engines": {
+    "node": ">=22.18"
+  },
+  "scripts": {
+    "predev": "node scripts/generate-seo.mjs",
+    "dev": "next dev",
+    "prebuild": "node scripts/generate-seo.mjs",
+    "build": "next build",
+    "start": "next start",
+    "lint": "eslint",
+    "typecheck": "next typegen && tsc --noEmit",
+    "tracklists": "node scripts/fetch-tracklists.mjs",
+    "tracklists:wiki": "node scripts/fetch-wikipedia-tracklists.mjs",
+    "links": "node scripts/fetch-streaming-links.mjs",
+    "images": "node scripts/fetch-images.mjs",
+    "logos": "node scripts/generate-logos.mjs",
+    "lineups": "node scripts/fetch-current-lineups.mjs",
+    "verify:lineups": "node scripts/verify-lineups.mjs"
+  },
+  "dependencies": {
+    "framer-motion": "^14.6.0",
+    "next": "16.4.3",
+    "react": "19.3.0",
+    "react-dom": "19.3.0"
+  },
+  "devDependencies": {
+    "@tailwindcss/turbopack": "^4",
+    "@types/node": "^20",
+    "@types/react": "^19",
+    "@types/react-dom": "^19",
+    "eslint": "^9",
+    "eslint-config-next": "16.4.3",
+    "tailwindcss": "^4",
+    "typescript": "^5"
+  }
+}

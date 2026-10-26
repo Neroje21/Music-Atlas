@@ -1,0 +1,2690 @@
+{
+  "1349": {
+    "source": "1349 (band)",
+    "current": [
+      "Ravn",
+      "Seidemann",
+      "Archaon",
+      "Frost",
+      "Olav \"Ravn\" Bergene — Lead vocals",
+      "Tor Risdal \"Seidemann\" Stavenes — Bass, backing vocals",
+      "Idar \"Archaon\" Burheim — Guitars, backing vocals",
+      "Kjetil-Vidar \"Frost\" Haraldstad — Drums"
+    ]
+  },
+  "iron-maiden": {
+    "source": "Iron Maiden",
+    "current": [
+      "Steve Harris — Bass guitar, backing vocals",
+      "Dave Murray — Guitars",
+      "Adrian Smith — Guitars, backing vocals",
+      "Bruce Dickinson — Lead vocals",
+      "Nicko McBrain — Drums",
+      "Janick Gers — Guitars"
+    ]
+  },
+  "judas-priest": {
+    "source": "Judas Priest",
+    "current": [
+      "Rob Halford — Lead vocals",
+      "Glenn Tipton — Guitars, backing vocals, keyboards",
+      "Scott Travis — Drums, occasional backing vocals",
+      "Richie Faulkner — Guitars, backing vocals",
+      "Dave Rimmer — Bass"
+    ]
+  },
+  "motley-crue": {
+    "source": "Mötley Crüe",
+    "current": [
+      "Nikki Sixx — Bass, keyboards, backing vocals",
+      "Tommy Lee — Drums, percussion, piano, backing vocals",
+      "Vince Neil — Lead vocals, occasional rhythm guitar",
+      "John 5 — Guitar, backing vocals"
+    ]
+  },
+  "skid-row": {
+    "source": "Skid Row (American band)",
+    "current": [
+      "Dave \"The Snake\" Sabo — Guitars, backing vocals",
+      "Rachel Bolan — Bass, backing vocals",
+      "Scotti Hill — Guitars, backing vocals",
+      "Rob Hammersmith — Drums, backing vocals"
+    ]
+  },
+  "metallica": {
+    "source": "Metallica",
+    "current": [
+      "James Hetfield — Lead vocals, rhythm guitar",
+      "Lars Ulrich — Drums",
+      "Kirk Hammett — Lead guitar, backing vocals",
+      "Robert Trujillo — Bass, backing vocals"
+    ]
+  },
+  "megadeth": {
+    "source": "Megadeth",
+    "current": [
+      "Dave Mustaine — Guitars, lead vocals",
+      "James LoMenzo — Bass, backing vocals",
+      "Dirk Verbeuren — Drums",
+      "Teemu Mäntysaari — Guitars, backing vocals"
+    ]
+  },
+  "anthrax": {
+    "source": "Anthrax (American band)",
+    "current": [
+      "Scott Ian — Rhythm guitar, backing vocals",
+      "Charlie Benante — Drums",
+      "Frank Bello — Bass, backing vocals",
+      "Joey Belladonna — Lead vocals",
+      "Jonathan Donais"
+    ]
+  },
+  "helloween": {
+    "source": "Helloween",
+    "current": [
+      "Michael Weikath — Guitars, backing vocals",
+      "Markus Grosskopf — Bass, backing vocals",
+      "Kai Hansen — Guitars",
+      "Michael Kiske — Lead vocals",
+      "Andi Deris — Lead vocals",
+      "Sascha Gerstner — Guitars, backing vocals",
+      "Daniel Löble — Drums"
+    ]
+  },
+  "sabaton": {
+    "source": "Sabaton (band)",
+    "current": [
+      "Joakim Brodén — Lead vocals, occasional rhythm guitar",
+      "Pär Sundström — Bass",
+      "Chris Rörland — Lead guitar, backing vocals",
+      "Hannes Van Dahl — Drums, backing vocals",
+      "Thobbe Englund — Lead guitar, backing vocals"
+    ]
+  },
+  "dragonforce": {
+    "source": "DragonForce",
+    "current": [
+      "Herman Li — Guitar, backing vocals",
+      "Sam Totman — Guitar, backing vocals",
+      "Marc Hudson — Lead vocals",
+      "Gee Anzalone — Drums, percussion, backing vocals",
+      "Alicia Vigil — Bass, backing vocals",
+      "Alissa White-Gluz — Lead vocals",
+      "Billy Wilkins — Guitar, backing vocals"
+    ]
+  },
+  "cannibal-corpse": {
+    "source": "Cannibal Corpse",
+    "current": [
+      "Alex Webster — Bass",
+      "Paul Mazurkiewicz — Drums",
+      "Rob Barrett — Rhythm guitar",
+      "George \"Corpsegrinder\" Fisher — Lead vocals",
+      "Erik Rutan — Lead guitar, backing vocals"
+    ]
+  },
+  "morbid-angel": {
+    "source": "Morbid Angel",
+    "current": [
+      "Trey Azagthoth — Guitars, keyboards",
+      "Steve Tucker — Bass, vocals",
+      "Dan Vadim Von — Guitars",
+      "Charlie Koryn — Drums"
+    ]
+  },
+  "gojira": {
+    "source": "Gojira (band)",
+    "current": [
+      "Joe Duplantier",
+      "Mario Duplantier",
+      "Christian Andreu",
+      "Jean-Michel Labadie"
+    ]
+  },
+  "in-flames": {
+    "source": "In Flames",
+    "current": [
+      "Anders Fridén",
+      "Björn Gelotte",
+      "Chris Broderick",
+      "Liam Wilson",
+      "Jon Rice"
+    ]
+  },
+  "dark-tranquillity": {
+    "source": "Dark Tranquillity",
+    "current": [
+      "Mikael Stanne — Lead vocals",
+      "Martin Brändström — Keyboards, programming",
+      "Johan Reinholdz — Lead guitar",
+      "Christian Jansson — Bass",
+      "Joakim Strandberg Nilsson — Drums",
+      "Peter Lyse Karmark — Rhythm guitar"
+    ]
+  },
+  "arch-enemy": {
+    "source": "Arch Enemy",
+    "current": [
+      "Michael Amott",
+      "Daniel Erlandsson",
+      "Sharlee D'Angelo",
+      "Joey Concepcion",
+      "Lauren Hart"
+    ]
+  },
+  "mayhem": {
+    "source": "Mayhem (band)",
+    "current": [
+      "Necrobutcher — Bass",
+      "Hellhammer — Drums",
+      "Attila Csihar — Vocals",
+      "Teloch — Guitars",
+      "Ghul — Guitars"
+    ]
+  },
+  "darkthrone": {
+    "source": "Darkthrone",
+    "current": [
+      "Fenriz — Drums, guitars, bass, keyboards, vocals",
+      "Nocturno Culto — Vocals, guitars, bass, keyboards"
+    ]
+  },
+  "emperor": {
+    "source": "Emperor (Norwegian band)",
+    "current": [
+      "Ihsahn — Vocals, guitars, keyboards",
+      "Samoth — Guitars",
+      "Trym Torson — Drums"
+    ]
+  },
+  "candlemass": {
+    "source": "Candlemass (band)",
+    "current": [
+      "Leif Edling — Bass",
+      "Mats \"Mappe\" Björkman — Rhythm guitar",
+      "Lars Johansson — Lead guitar",
+      "Jan Lindh — Drums",
+      "Johan Längqvist — Vocals"
+    ]
+  },
+  "electric-wizard": {
+    "source": "Electric Wizard",
+    "current": [
+      "Jus Oborn",
+      "Liz Buckingham",
+      "Simon Poole",
+      "Haz Wheaton"
+    ]
+  },
+  "sleep": {
+    "source": "Sleep (band)",
+    "current": [
+      "Al Cisneros — Bass, vocals, water pipe",
+      "Bubba Dupree — Guitar",
+      "Dale Crover — Drums"
+    ]
+  },
+  "lacuna-coil": {
+    "source": "Lacuna Coil",
+    "current": [
+      "Andrea Ferro — Vocals",
+      "Marco Coti Zelati — Bass, keyboards, studio guitars",
+      "Cristina Scabbia — Vocals",
+      "Richard Meiz — Drums, studio synthesizers and synthesizer sounds",
+      "Daniele Salomone — Guitars"
+    ]
+  },
+  "dream-theater": {
+    "source": "Dream Theater",
+    "current": [
+      "John Myung — Bass guitar",
+      "John Petrucci — Guitars",
+      "Mike Portnoy — Drums, percussion",
+      "James LaBrie — Lead vocals",
+      "Jordan Rudess — Keyboards, continuum, occasional guitar"
+    ]
+  },
+  "opeth": {
+    "source": "Opeth",
+    "current": [
+      "Mikael Åkerfeldt",
+      "Martín Méndez",
+      "Fredrik Åkesson",
+      "Joakim Svalberg",
+      "Waltteri Väyrynen"
+    ]
+  },
+  "tool": {
+    "source": "Tool (band)",
+    "current": [
+      "Maynard James Keenan — Vocals",
+      "Adam Jones — Guitars",
+      "Danny Carey — Drums, percussion",
+      "Justin Chancellor — Bass"
+    ]
+  },
+  "queensryche": {
+    "source": "Queensrÿche",
+    "current": [
+      "Michael Wilton — Lead guitar",
+      "Eddie Jackson — Bass, backing vocals",
+      "Mike Stone — Rhythm guitar, backing vocals",
+      "Todd La Torre — Lead vocals",
+      "Casey Grillo — Drums"
+    ]
+  },
+  "nightwish": {
+    "source": "Nightwish",
+    "current": [
+      "Tuomas Holopainen — Keyboards",
+      "Emppu Vuorinen — Guitars",
+      "Troy Donockley — Uilleann pipes, whistles, guitars, vocals",
+      "Kai Hahto — Drums, percussion",
+      "Jukka Koskinen — Bass"
+    ]
+  },
+  "within-temptation": {
+    "source": "Within Temptation",
+    "current": [
+      "Sharon den Adel — Lead vocals",
+      "Robert Westerholt — Rhythm guitar, unclean vocals",
+      "Jeroen van Veen — Bass",
+      "Ruud Jolie — Lead guitar",
+      "Mike Coolen — Drums",
+      "Stefan Helleblad — Rhythm guitar, occasional backing vocals",
+      "Vikram Shankar — Keyboards"
+    ]
+  },
+  "kamelot": {
+    "source": "Kamelot",
+    "current": [
+      "Thomas Youngblood — Guitars, backing vocals",
+      "Oliver Palotai — Keyboards, additional guitars",
+      "Sean Tibbetts — Bass",
+      "Tommy Karevik — Lead vocals",
+      "Alex Landenburg — Drums, percussion"
+    ]
+  },
+  "rammstein": {
+    "source": "Rammstein",
+    "current": [
+      "Till Lindemann — Lead vocals",
+      "Paul Landers — Rhythm guitar, backing vocals",
+      "Christoph Schneider — Drums, percussion",
+      "Christian \"Flake\" Lorenz — Keyboards, synthesizers",
+      "Richard Kruspe — Lead guitar, backing vocals",
+      "Oliver Riedel — Bass guitar"
+    ]
+  },
+  "fear-factory": {
+    "source": "Fear Factory",
+    "current": [
+      "Dino Cazares — Guitars, backing vocals, studio bass",
+      "Milo Silvestro — Lead vocals",
+      "Pete Webber — Drums",
+      "Tony Campos — Bass, backing vocals"
+    ]
+  },
+  "godflesh": {
+    "source": "Godflesh",
+    "current": [
+      "Justin Broadrick — Guitars, vocals, programming, electronics",
+      "B. C. Green — Bass"
+    ]
+  },
+  "pantera": {
+    "source": "Pantera",
+    "current": [
+      "Rex Brown — Bass, backing vocals",
+      "Phil Anselmo — Lead vocals"
+    ]
+  },
+  "lamb-of-god": {
+    "source": "Lamb of God (band)",
+    "current": [
+      "John Campbell — Bass",
+      "Randy Blythe — Vocals",
+      "Mark Morton — Lead guitar",
+      "Willie Adler — Rhythm guitar",
+      "Art Cruz — Drums"
+    ]
+  },
+  "machine-head": {
+    "source": "Machine Head (band)",
+    "current": [
+      "Robb Flynn — Lead vocals, guitar",
+      "Jared MacEachern — Bass, backing vocals",
+      "Matt Alston — Drums"
+    ]
+  },
+  "sepultura": {
+    "source": "Sepultura",
+    "current": [
+      "Paulo Jr. — Bass",
+      "Andreas Kisser — Lead guitar, backing vocals",
+      "Derrick Green — Lead vocals",
+      "Greyson Nekrutman — Drums, percussion"
+    ]
+  },
+  "korn": {
+    "source": "Korn",
+    "current": [
+      "Jonathan Davis — Lead vocals, bagpipes",
+      "James \"Munky\" Shaffer — Guitar",
+      "Brian \"Head\" Welch — Guitar, backing vocals",
+      "Ray Luzier — Drums"
+    ]
+  },
+  "system-of-a-down": {
+    "source": "System of a Down",
+    "current": [
+      "Serj Tankian — Lead vocals, keyboards, samples",
+      "Daron Malakian — Guitar, backing vocals",
+      "Shavo Odadjian — Bass, occasional backing vocals",
+      "John Dolmayan — Drums"
+    ]
+  },
+  "deftones": {
+    "source": "Deftones",
+    "current": [
+      "Stephen Carpenter — Lead guitar",
+      "Abe Cunningham — Drums",
+      "Chino Moreno — Lead vocals",
+      "Frank Delgado — Keyboards, turntables, samples"
+    ]
+  },
+  "killswitch-engage": {
+    "source": "Killswitch Engage",
+    "current": [
+      "Mike D'Antonio — Bass",
+      "Adam Dutkiewicz — Lead guitar",
+      "Joel Stroetzel — Rhythm guitar",
+      "Jesse Leach — Lead vocals",
+      "Justin Foley — Drums"
+    ]
+  },
+  "trivium": {
+    "source": "Trivium (band)",
+    "current": [
+      "Matt Heafy — Guitars",
+      "Corey Beaulieu — Guitars, unclean backing vocals",
+      "Paolo Gregoletto — Bass, clean backing vocals",
+      "Alex Rüdinger — Drums, percussion"
+    ]
+  },
+  "parkway-drive": {
+    "source": "Parkway Drive",
+    "current": [
+      "Winston McCall — Lead vocals",
+      "Jeff Ling — Lead guitar",
+      "Luke \"Pig\" Kilpatrick — Rhythm guitar",
+      "Ben \"Gaz\" Gordon — Drums",
+      "Jia \"Pie\" O'Connor — Bass"
+    ]
+  },
+  "architects": {
+    "source": "Architects (British band)",
+    "current": [
+      "Dan Searle — Drums, percussion, programming",
+      "Sam Carter — Lead vocals",
+      "Alex \"Ali\" Dean — Bass",
+      "Adam Christianson — Rhythm guitar"
+    ]
+  },
+  "blind-guardian": {
+    "source": "Blind Guardian",
+    "current": [
+      "Hansi Kürsch — Lead vocals",
+      "André Olbrich — Lead guitar, backing vocals",
+      "Marcus Siepen — Rhythm guitar, backing vocals",
+      "Frederik Ehmke — Drums, percussion, flute, bagpipes",
+      "Johan van Stratum — Bass, backing vocals"
+    ]
+  },
+  "paradise-lost": {
+    "source": "Paradise Lost (band)",
+    "current": [
+      "Aaron Aedy — Rhythm guitar",
+      "Nick Holmes — Vocals",
+      "Gregor Mackintosh — Lead guitar, keyboards",
+      "Jeff Singer — Drums",
+      "Steve Edmondson"
+    ]
+  },
+  "my-dying-bride": {
+    "source": "My Dying Bride",
+    "current": [
+      "Andrew Craighan — Lead guitar",
+      "Shaun MacGowan — Keyboards, violin",
+      "Dan Mullins — Drums",
+      "Lena Abé — Bass",
+      "Neil Blanchett — Rhythm guitar"
+    ]
+  },
+  "epica": {
+    "source": "Epica (band)",
+    "current": [
+      "Mark Jansen — Rhythm guitar, unclean vocals",
+      "Simone Simons — Lead vocals",
+      "Isaac Delahaye — Lead guitar, backing vocals",
+      "Coen Janssen — Keyboards, synthesizers, piano",
+      "Ariën van Weesenbeek — Drums",
+      "Rob van der Loo — Bass"
+    ]
+  },
+  "ensiferum": {
+    "source": "Ensiferum",
+    "current": [
+      "Markus Toivonen — Guitars, backing vocals",
+      "Petri Lindroos — Guitars, harsh vocals",
+      "Sami Hinkka — Bass, clean and harsh vocals",
+      "Janne Parviainen — Drums",
+      "Pekka Montin — Keyboards, clean vocals"
+    ]
+  },
+  "saxon": {
+    "source": "Saxon (band)",
+    "current": [
+      "Biff Byford",
+      "Paul Quinn",
+      "Nigel Glockler",
+      "Nibbs Carter",
+      "Doug Scarratt",
+      "Brian Tatler"
+    ]
+  },
+  "accept": {
+    "source": "Accept (band)",
+    "current": [
+      "Wolf Hoffmann — Lead guitar, backing vocals",
+      "Mark Tornillo — Lead vocals",
+      "Christopher Williams — Drums, backing vocals",
+      "Martin Motnik — Bass, backing vocals",
+      "Philip Shouse — Rhythm guitar, backing vocals"
+    ]
+  },
+  "scorpions": {
+    "source": "Scorpions (band)",
+    "current": [
+      "Rudolf Schenker — Rhythm guitar, backing vocals",
+      "Klaus Meine — Lead vocals",
+      "Matthias Jabs — Lead guitar, backing vocals",
+      "Paweł Mąciwoda — Bass, backing vocals",
+      "Mikkey Dee — Drums"
+    ]
+  },
+  "def-leppard": {
+    "source": "Def Leppard",
+    "current": [
+      "Rick Savage — Bass, keyboards, backing vocals, occasional guitars",
+      "Joe Elliott — Lead vocals, occasional guitars, keyboards, piano",
+      "Rick Allen — Drums, percussion, backing vocals",
+      "Phil Collen — Guitars, backing vocals",
+      "Vivian Campbell — Guitars, backing vocals"
+    ]
+  },
+  "deep-purple": {
+    "source": "Deep Purple",
+    "current": [
+      "Ian Paice — Drums",
+      "Roger Glover — Bass, keyboards",
+      "Ian Gillan — Lead vocals, harmonica, percussion",
+      "Don Airey — Keyboards",
+      "Simon McBride — Guitars, backing vocals"
+    ]
+  },
+  "manowar": {
+    "source": "Manowar",
+    "current": [
+      "Joey DeMaio — Bass, keyboards",
+      "Eric Adams — Vocals",
+      "Dave Chedrick — Drums",
+      "Michael Angelo Batio — Guitars"
+    ]
+  },
+  "mercyful-fate": {
+    "source": "Mercyful Fate",
+    "current": [
+      "King Diamond — Lead vocals, keyboards",
+      "Hank Shermann — Guitars",
+      "Bjarne T. Holm — Drums",
+      "Mike Wead — Guitars",
+      "Becky Baldwin — Bass"
+    ]
+  },
+  "diamond-head": {
+    "source": "Diamond Head (British band)",
+    "current": [
+      "Brian Tatler — Guitar, backing vocals",
+      "Karl Wilcox — Drums",
+      "Rasmus Bom Andersen — Lead vocals",
+      "Andy \"Abbz\" Abberley — Guitar",
+      "Paul Gaskin — Bass, backing vocals"
+    ]
+  },
+  "wasp": {
+    "source": "W.A.S.P. (band)",
+    "current": [
+      "Blackie Lawless — Lead vocals, rhythm guitar, keyboards, percussion",
+      "Doug Blair — Lead guitar, backing vocals",
+      "Aquiles Priester — Drums",
+      "Mike Duda — Bass, backing vocals"
+    ]
+  },
+  "savatage": {
+    "source": "Savatage",
+    "current": [
+      "Jon Oliva — Keyboards",
+      "Johnny Lee Middleton — Bass guitar, backing vocals",
+      "Chris Caffery — Guitar, vocals",
+      "Zachary Stevens — Lead vocals",
+      "Jeff Plate — Drums",
+      "Al Pitrelli — Guitar, backing vocals"
+    ]
+  },
+  "armored-saint": {
+    "source": "Armored Saint",
+    "current": [
+      "John Bush — Lead vocals",
+      "Joey Vera — Bass, backing vocals",
+      "Jeff Duncan — Guitar, backing vocals",
+      "Gonzo Sandoval — Drums, backing vocals",
+      "Phil Sandoval — Guitar"
+    ]
+  },
+  "primal-fear": {
+    "source": "Primal Fear (band)",
+    "current": [
+      "Ralf Scheepers — Lead vocals",
+      "Mat Sinner — Bass, co-lead vocals",
+      "Magnus Karlsson — Guitars",
+      "Thalìa Bellazecca — Guitars",
+      "André Hilgers — Drums"
+    ]
+  },
+  "anvil": {
+    "source": "Anvil (band)",
+    "current": [
+      "Steve \"Lips\" Kudlow — Guitars, lead vocals",
+      "Robb \"Robbo\" Reiner — Drums",
+      "Chris Robertson — Bass, backing and lead vocals"
+    ]
+  },
+  "raven": {
+    "source": "Raven (British band)",
+    "current": [
+      "Mike Heller — Drums",
+      "John Gallagher — Bass, lead vocals",
+      "Mark Gallagher — Guitars, backing vocals"
+    ]
+  },
+  "amon-amarth": {
+    "source": "Amon Amarth",
+    "current": [
+      "Olavi Mikkonen",
+      "Johan Hegg",
+      "Ted Lundström",
+      "Johan Söderberg",
+      "Jocke Wallgren"
+    ]
+  },
+  "korpiklaani": {
+    "source": "Korpiklaani",
+    "current": [
+      "Jonne Järvelä — Vocals, luohti, electric and acoustic guitar, lercussion",
+      "Kalle \"Cane\" Savijärvi — Guitar",
+      "Jarkko Aaltonen — Bass",
+      "Sami Perttula — Accordion",
+      "Samuli Mikkonen — Drums",
+      "Olli Vänskä — Violin"
+    ]
+  },
+  "eluveitie": {
+    "source": "Eluveitie",
+    "current": [
+      "Chrigel Glanzmann — Unclean vocals, mandola, whistles, flutes, pipes, gaita, acoustic guitar, bodhrán, harp",
+      "Kay Brem — Bass",
+      "Rafael Salzmann — Lead guitar",
+      "Jonas Wolf — Rhythm guitar",
+      "Alain Ackermann — Drums",
+      "Fabienne Erni — Clean vocals, celtic harp",
+      "Lea-Sophie Fischer — Violin, hurdy-gurdy"
+    ]
+  },
+  "warrant": {
+    "source": "Warrant (American band)",
+    "current": [
+      "Erik Turner — Guitar, backing vocals, harmonica",
+      "Jerry Dixon — Bass guitar, backing vocals",
+      "Steven Sweet — Drums, percussion, backing vocals, harmonica",
+      "Joey Allen — Lead guitar, backing vocals, banjo, harmonica",
+      "Robert Mason — Lead vocals, additional guitar"
+    ]
+  },
+  "quiet-riot": {
+    "source": "Quiet Riot",
+    "current": [
+      "Rudy Sarzo — Bass, backing vocals",
+      "Alex Grossi — Guitars, backing vocals",
+      "Johnny Kelly — Drums",
+      "John Torra — Lead vocals"
+    ]
+  },
+  "dokken": {
+    "source": "Dokken",
+    "current": [
+      "Don Dokken — Lead vocals, rhythm guitar",
+      "Chris McCarvill — Bass, backing vocals",
+      "BJ Zampa",
+      "Jon Levin — Lead guitar"
+    ]
+  },
+  "great-white": {
+    "source": "Great White",
+    "current": [
+      "Michael Lardie — Rhythm guitar, banjo, electric sitar, keyboards, percussion, harmonica, backing vocals",
+      "Mark Kendall — Lead guitar, percussion, backing vocals",
+      "Audie Desbrow — Drums, percussion",
+      "Scott Snyder — Bass, backing vocals",
+      "Brett Carlisle — Lead vocals"
+    ]
+  },
+  "stryper": {
+    "source": "Stryper",
+    "current": [
+      "Michael Sweet — Lead vocals, rhythm guitar, keyboards, piano",
+      "Robert Sweet — Drums, percussion",
+      "Oz Fox — Lead guitar",
+      "Perry Richardson — Bass, backing vocals"
+    ]
+  },
+  "europe": {
+    "source": "Europe (band)",
+    "current": [
+      "Joey Tempest — Lead vocals, rhythm guitar",
+      "John Norum — Lead guitar, backing vocals",
+      "John Levén — Bass, backing vocals",
+      "Mic Michaeli — Keyboards, piano, keytar, backing vocals, occasional guitars",
+      "Ian Haugland — Drums, percussion, snare drum, backing vocals"
+    ]
+  },
+  "testament": {
+    "source": "Testament (band)",
+    "current": [
+      "Eric Peterson — Rhythm and lead guitar, backing vocals",
+      "Chuck Billy — Lead vocals",
+      "Alex Skolnick — Lead and rhythm guitar, backing vocals",
+      "Steve Di Giorgio — Bass"
+    ]
+  },
+  "exodus": {
+    "source": "Exodus (band)",
+    "current": [
+      "Tom Hunting — Drums",
+      "Gary Holt — Guitars, backing vocals",
+      "Jack Gibson — Bass, backing vocals",
+      "Lee Altus — Guitars",
+      "Rob Dukes — Lead vocals"
+    ]
+  },
+  "overkill": {
+    "source": "Overkill (band)",
+    "current": [
+      "D.D. Verni",
+      "Bobby \"Blitz\" Ellsworth — Lead vocals",
+      "Dave Linsk — Lead guitar, backing vocals",
+      "Derek Tailer — Rhythm guitar, backing vocals",
+      "Jeramie Kling — Drums"
+    ]
+  },
+  "kreator": {
+    "source": "Kreator",
+    "current": [
+      "Miland \"Mille\" Petrozza — Lead vocals, rhythm guitar",
+      "Jürgen \"Ventor\" Reil — Drums",
+      "Sami Yli-Sirniö — Lead guitar, backing vocals",
+      "Frédéric Leclercq — Bass, backing vocals"
+    ]
+  },
+  "sodom": {
+    "source": "Sodom (band)",
+    "current": [
+      "Tom Angelripper",
+      "Frank \"Blackfire\" Gosdzik — Lead guitar",
+      "Yorck Segatz — Rhythm guitar",
+      "Toni Merkel — Drums"
+    ]
+  },
+  "destruction": {
+    "source": "Destruction (band)",
+    "current": [
+      "Marcel \"Schmier\" Schirmer — Bass",
+      "Randy Black — Drums",
+      "Damir Eskic — Lead guitar, backing vocals",
+      "Martin Furia — Rhythm guitar, backing vocals"
+    ]
+  },
+  "death-angel": {
+    "source": "Death Angel",
+    "current": [
+      "Rob Cavestany — Lead guitar, backing vocals",
+      "Mark Osegueda — Lead vocals",
+      "Ted Aguilar — Rhythm guitar, backing vocals",
+      "Will Carroll — Drums",
+      "Damien Sisson — Bass"
+    ]
+  },
+  "annihilator": {
+    "source": "Annihilator (band)",
+    "current": [
+      "Jeff Waters",
+      "Stu Block",
+      "Aaron Homma",
+      "Rich Gray",
+      "Fabio Alessandrini"
+    ]
+  },
+  "sacred-reich": {
+    "source": "Sacred Reich",
+    "current": [
+      "Phil Rind — Bass, vocals",
+      "Wiley Arnett — Lead guitar",
+      "Joey Radziwill — Rhythm guitar",
+      "Eduardo Baldo — Drums"
+    ]
+  },
+  "voivod": {
+    "source": "Voivod (band)",
+    "current": [
+      "Michel \"Away\" Langevin — Drums",
+      "Denis \"Snake\" Bélanger — Vocals",
+      "Daniel \"Chewy\" Mongrain — Guitars",
+      "Dominic \"Rocky\" Laroche — Bass"
+    ]
+  },
+  "municipal-waste": {
+    "source": "Municipal Waste (band)",
+    "current": [
+      "Tony Foresta — Lead vocals",
+      "Ryan Waste — Rhythm guitar, backing vocals",
+      "Land Phil",
+      "Dave Witte — Drums",
+      "Nick \"Nikropolis\" Poulos — Lead guitar"
+    ]
+  },
+  "flotsam-and-jetsam": {
+    "source": "Flotsam and Jetsam (band)",
+    "current": [
+      "Ken Mary — Drums",
+      "Eric \"A. K.\" Knutson — Lead vocals",
+      "Michael Gilbert — Guitar, backing vocals",
+      "Steve Conley — Guitar, backing vocals",
+      "Bill Bodily — Bass, backing vocals"
+    ]
+  },
+  "onslaught": {
+    "source": "Onslaught (band)",
+    "current": [
+      "Nige Rockett",
+      "Sy Keeler",
+      "Jeff Williams — Bass guitar",
+      "James Perry — Drums",
+      "Dave Garnett — Lead vocals"
+    ]
+  },
+  "stratovarius": {
+    "source": "Stratovarius",
+    "current": [
+      "Timo Kotipelto — Lead vocals",
+      "Jens Johansson — Keyboards",
+      "Lauri Porra — Bass, backing vocals",
+      "Matias Kupiainen — Guitar, backing vocals",
+      "Rolf Pilve — Drums"
+    ]
+  },
+  "sonata-arctica": {
+    "source": "Sonata Arctica",
+    "current": [
+      "Tommy Portimo — Drums",
+      "Tony Kakko — Lead vocals",
+      "Henrik Klingenberg — Keyboards, keytar, backing vocals",
+      "Elias Viljanen — Guitar, backing vocals",
+      "Pasi Kauppinen — Bass, backing vocals"
+    ]
+  },
+  "rhapsody-of-fire": {
+    "source": "Rhapsody of Fire",
+    "current": [
+      "Alex Staropoli — Keyboards",
+      "Roberto De Micheli — Guitar",
+      "Alessandro Sala — Bass",
+      "Giacomo Voli — Vocals",
+      "Paolo Marchesich — Drums"
+    ]
+  },
+  "hammerfall": {
+    "source": "HammerFall",
+    "current": [
+      "Oscar Dronjak — Guitars, backing vocals",
+      "Joacim Cans — Lead vocals",
+      "Pontus Norgren — Guitars, backing vocals",
+      "Fredrik Larsson — Bass",
+      "David Wallin — Drums"
+    ]
+  },
+  "gamma-ray": {
+    "source": "Gamma Ray (band)",
+    "current": [
+      "Kai Hansen — Guitar, lead and backing vocals",
+      "Dirk Schlächter — Bass",
+      "Henjo Richter — Guitar, keyboards, backing vocals",
+      "Michael Ehré — Drums",
+      "Frank Beck — Lead and backing vocals"
+    ]
+  },
+  "edguy": {
+    "source": "Edguy",
+    "current": [
+      "Tobias Sammet — Vocals, keyboard",
+      "Jens Ludwig — Lead and rhythm guitar, backing vocals",
+      "Tobias Exxel — Bass guitar, backing vocals",
+      "Felix Bohnke — Drums",
+      "Dirk Sauer — Rhythm and lead guitar, backing vocals"
+    ]
+  },
+  "avantasia": {
+    "source": "Avantasia",
+    "current": [
+      "Tobias Sammet — Bass, lead vocals, keyboards",
+      "Sascha Paeth — Guitars",
+      "Miro — Keyboards",
+      "Felix Bohnke — Drums"
+    ]
+  },
+  "angra": {
+    "source": "Angra (band)",
+    "current": [
+      "Rafael Bittencourt — Guitars, backing vocals",
+      "Felipe Andreoli — Bass, backing vocals",
+      "Bruno Valverde — Drums",
+      "Marcelo Barbosa — Guitars",
+      "Alirio Netto — Lead vocals, keyboards"
+    ]
+  },
+  "powerwolf": {
+    "source": "Powerwolf",
+    "current": [
+      "Matthew Greywolf",
+      "Charles Greywolf",
+      "Falk Maria Schlegel",
+      "Attila Dorn",
+      "Roel van Helden — Drums"
+    ]
+  },
+  "freedom-call": {
+    "source": "Freedom Call",
+    "current": [
+      "Chris Bay — Lead vocals, guitar, keyboards",
+      "Lars Rettkowitz — Guitar",
+      "Francesco Ferraro — Bass",
+      "Ramy Ali — Drums"
+    ]
+  },
+  "obituary": {
+    "source": "Obituary (band)",
+    "current": [
+      "John Tardy — Vocals",
+      "Donald Tardy — Drums",
+      "Trevor Peres — Rhythm guitar",
+      "Terry Butler — Bass",
+      "Ken Andrews"
+    ]
+  },
+  "deicide": {
+    "source": "Deicide (band)",
+    "current": [
+      "Glen Benton — Bass, lead vocals",
+      "Steve Asheim — Drums",
+      "Taylor Nordberg — Guitars, backing vocals",
+      "Jadran \"Conan\" Gonzalez — Guitars, backing vocals"
+    ]
+  },
+  "suffocation": {
+    "source": "Suffocation (band)",
+    "current": [
+      "Terrance Hobbs — Lead guitar",
+      "Derek Boyer — Bass",
+      "Charlie Errigo — Rhythm guitar",
+      "Ricky Myers — Vocals",
+      "John Longstreth — Drums"
+    ]
+  },
+  "carcass": {
+    "source": "Carcass (band)",
+    "current": [
+      "Bill Steer — Guitar",
+      "Jeff Walker — Bass",
+      "Daniel Wilding — Drums, backing vocals",
+      "James Blackford"
+    ]
+  },
+  "autopsy": {
+    "source": "Autopsy (band)",
+    "current": [
+      "Chris Reifert — Lead vocals, drums, percussion",
+      "Danny Coralles — Guitar",
+      "Eric Cutler — Guitar, backing and occasional lead vocals",
+      "Greg Wilkinson — Bass"
+    ]
+  },
+  "immolation": {
+    "source": "Immolation (band)",
+    "current": [
+      "Robert Vigna — Lead guitar",
+      "Ross Dolan — Bass, vocals",
+      "Steve Shalaty — Drums",
+      "Alex Bouks — Rhythm guitar"
+    ]
+  },
+  "nile": {
+    "source": "Nile (band)",
+    "current": [
+      "Karl Sanders — Guitars",
+      "George Kollias — Drums",
+      "Brian Kingsland — Guitars, vocals",
+      "Zach Jeter — Guitars, vocals",
+      "Adam Roethlisberger — Bass, vocals"
+    ]
+  },
+  "hypocrisy": {
+    "source": "Hypocrisy (band)",
+    "current": [
+      "Peter Tägtgren — Guitars, keyboards",
+      "Tomas Elofsson — Guitars",
+      "Mikael Hedlund — Bass",
+      "Henrik Axelsson — Drums"
+    ]
+  },
+  "vader": {
+    "source": "Vader (band)",
+    "current": [
+      "Piotr \"Peter\" Wiwczarek — Lead guitar",
+      "Marek \"Spider\" Pająk — Rhythm guitar",
+      "Tomasz \"Hal\" Halicki — Bass",
+      "Michał Andrzejczyk — Drums",
+      "Maurycy \"Mauser\" Stefanowicz — Rhythm guitar"
+    ]
+  },
+  "behemoth": {
+    "source": "Behemoth (band)",
+    "current": [
+      "Nergal",
+      "Inferno",
+      "Orion",
+      "Seth"
+    ]
+  },
+  "decapitated": {
+    "source": "Decapitated (band)",
+    "current": [
+      "Wacław \"Vogg\" Kiełtyka — Guitars",
+      "Paweł Pasek — Bass",
+      "James Stewart — Drums",
+      "Eemeli Bodde — Vocals"
+    ]
+  },
+  "at-the-gates": {
+    "source": "At the Gates",
+    "current": [
+      "Anders Björler",
+      "Jonas Björler",
+      "Adrian Erlandsson",
+      "Martin Larsson"
+    ]
+  },
+  "soilwork": {
+    "source": "Soilwork",
+    "current": [
+      "Björn \"Speed\" Strid — Vocals",
+      "Sven Karlsson — Keyboards",
+      "Sylvain Coudret — Guitars",
+      "Bastian Thusgaard — Drums",
+      "Rasmus Ehrnborn — Bass",
+      "Simon Johansson — Guitars"
+    ]
+  },
+  "amorphis": {
+    "source": "Amorphis",
+    "current": [
+      "Olli-Pekka Laine — Bass, backing vocals",
+      "Esa Holopainen — Lead guitar",
+      "Tomi Koivusaari — Rhythm guitar, backing vocals",
+      "Jan Rechberger — Drums",
+      "Santeri Kallio — Keyboards",
+      "Tomi Joutsen — Lead vocals",
+      "Pyry Hanski — Bass, backing vocals"
+    ]
+  },
+  "insomnium": {
+    "source": "Insomnium",
+    "current": [
+      "Niilo Sevänen — Bass, unclean vocals",
+      "Ville Friman — Guitars",
+      "Markus Vanhala — Guitars",
+      "Markus Hirvonen — Drums",
+      "Tomy Laisto — Guitars"
+    ]
+  },
+  "kalmah": {
+    "source": "Kalmah",
+    "current": [
+      "Pekka Kokko — Vocals, rhythm guitar",
+      "Antti Kokko — Lead guitar",
+      "Timo Lehtinen — Bass",
+      "Janne Kusmin — Drums",
+      "Veli-Matti Kananen — Keyboards"
+    ]
+  },
+  "wintersun": {
+    "source": "Wintersun",
+    "current": [
+      "Jari Mäenpää",
+      "Kai Hahto",
+      "Teemu Mäntysaari",
+      "Jukka Koskinen"
+    ]
+  },
+  "omnium-gatherum": {
+    "source": "Omnium Gatherum",
+    "current": [
+      "Markus Vanhala — Lead guitar & clean vocals",
+      "Aapo Koivisto — Keyboards",
+      "Jukka Pelkonen — Lead vocals",
+      "Mikko Kivistö — Bass",
+      "Atte Pesonen — Drums",
+      "Joonas \"Jope\" Koto — Rhythm guitar, clean vocals"
+    ]
+  },
+  "scar-symmetry": {
+    "source": "Scar Symmetry",
+    "current": [
+      "Per Nilsson — Lead guitar, keyboards, backing and clean vocals, bass",
+      "Roberth Karlsson — Harsh vocals",
+      "Lars Palmqvist — Clean vocals",
+      "Lawrence Dinamarca — Drums",
+      "Stephen Platt — Rhythm guitar"
+    ]
+  },
+  "the-black-dahlia-murder": {
+    "source": "The Black Dahlia Murder (band)",
+    "current": [
+      "Brian Eschbach — Lead vocals",
+      "Max Lavelle — Bass",
+      "Alan Cassidy — Drums",
+      "Ryan Knight — Rhythm guitar, backing vocals"
+    ]
+  },
+  "dimmu-borgir": {
+    "source": "Dimmu Borgir",
+    "current": [
+      "Shagrath — Lead vocals",
+      "Silenoz — Rhythm guitar",
+      "Daray — Drums",
+      "Gerlioz — Keyboards, synthesizer",
+      "Victor Brandt — Bass",
+      "Damage — Lead guitar"
+    ]
+  },
+  "gorgoroth": {
+    "source": "Gorgoroth",
+    "current": [
+      "Infernus — Guitars, bass, drums, vocals",
+      "Tomas Asklund — Drums",
+      "Atterigner — Vocals"
+    ]
+  },
+  "satyricon": {
+    "source": "Satyricon (band)",
+    "current": [
+      "Satyr",
+      "Frost",
+      "Sigurd \"Satyr\" Wongraven — Vocals, guitars, keyboards, bass",
+      "Kjetil-Vidar \"Frost\" Haraldstad — Drums"
+    ]
+  },
+  "enslaved": {
+    "source": "Enslaved (band)",
+    "current": [
+      "Ivar Bjørnson — Guitar, synthesizer, backing vocals",
+      "Grutle Kjellson — Unclean vocals, bass, occasional synthesizer",
+      "Arve \"Ice Dale\" Isdal — Guitar",
+      "Håkon Vinje — Keyboards, clean vocals",
+      "Iver Sandøy — Drums, clean vocals, keyboards"
+    ]
+  },
+  "cradle-of-filth": {
+    "source": "Cradle of Filth",
+    "current": [
+      "Dani Filth — Lead vocals",
+      "Martin \"Marthus\" Škaroupka — Drums",
+      "Daniel Firth — Bass",
+      "Donny Burbage — Guitars",
+      "Joff Bailey — Guitars"
+    ]
+  },
+  "watain": {
+    "source": "Watain",
+    "current": [
+      "Erik Danielsson a.k.a. E. — Vocals, bass",
+      "Håkan Jonsson a.k.a. H. — Drums",
+      "Pelle Forsberg a.k.a. P. — Guitars",
+      "Erik Danielsson a.k.a. E. — Vocals, bass",
+      "Håkan Jonsson a.k.a. H. — Drums",
+      "Pelle Forsberg a.k.a. P. — Guitars"
+    ]
+  },
+  "dark-funeral": {
+    "source": "Dark Funeral",
+    "current": [
+      "Lord Ahriman — Guitars",
+      "Heljarmadr — Vocals",
+      "Chaq Mol — Guitars",
+      "Jalomaah — Drums",
+      "Adra- Melek"
+    ]
+  },
+  "rotting-christ": {
+    "source": "Rotting Christ",
+    "current": [
+      "Sakis Tolis",
+      "Themis Tolis",
+      "Kostas Heliotis",
+      "Kostis Foukarakis"
+    ]
+  },
+  "ulver": {
+    "source": "Ulver",
+    "current": [
+      "Kristoffer Rygg — Vocals, additional programming, e-percussion",
+      "Jørn H. Sværen — Miscellaneous",
+      "Ole Aleksander Halstensgård — Electronics, e-percussion"
+    ]
+  },
+  "saint-vitus": {
+    "source": "Saint Vitus (band)",
+    "current": [
+      "Pat Bruders — Bass",
+      "Dave Chandler — Guitars",
+      "Henry Vasquez — Drums, percussion",
+      "Scott Reagers — Vocals"
+    ]
+  },
+  "trouble": {
+    "source": "Trouble (band)",
+    "current": [
+      "Bruce Franklin — Guitars",
+      "Rick Wartell — Guitars",
+      "Kyle Thomas — Vocals",
+      "Rob Hultz — Bass",
+      "Garry Naples — Drums"
+    ]
+  },
+  "solitude-aeturnus": {
+    "source": "Solitude Aeturnus",
+    "current": [
+      "Lyle Steadham — Bass",
+      "Logan Cade — Drums",
+      "John Perez — Guitars",
+      "Edgar Rivera — Guitars"
+    ]
+  },
+  "windhand": {
+    "source": "Windhand",
+    "current": [
+      "Dorthia Cottrell — Vocals",
+      "Garrett Morris — Guitars",
+      "Ryan Wolfe — Drums",
+      "Leanne Martz — Guitar",
+      "Thomas Hamilton — Bass"
+    ]
+  },
+  "pallbearer": {
+    "source": "Pallbearer (band)",
+    "current": [
+      "Brett Campbell — Lead vocals, guitar, synthesizer",
+      "Devin Holt — Guitar, backing vocals",
+      "Joseph D. Rowland — Bass, lead and backing vocals, electric and acoustic piano, synthesizer",
+      "Mark Lierly — Drums"
+    ]
+  },
+  "cirith-ungol": {
+    "source": "Cirith Ungol (band)",
+    "current": [
+      "Tim Baker — Lead vocals",
+      "Robert Garven — Drums",
+      "Greg Lindstrom — Bass",
+      "Jarvis Leatherby — Bass",
+      "Armand Anthony — Guitars"
+    ]
+  },
+  "the-obsessed": {
+    "source": "The Obsessed",
+    "current": [
+      "Scott \"Wino\" Weinrich — Lead guitar, lead vocals",
+      "Chris Angleberger — Bass",
+      "Jason Taylor — Rhythm guitar",
+      "Bob Pantella — Drums"
+    ]
+  },
+  "anathema": {
+    "source": "Anathema (band)",
+    "current": [
+      "Vincent Cavanagh — Rhythm guitar",
+      "Daniel Cavanagh — Lead guitar, vocals, keyboards",
+      "John Douglas — Drums",
+      "Lee Douglas — Lead and backing vocals",
+      "Daniel Cardoso — Drums, keyboards",
+      "Darren White — Lead vocals",
+      "Jamie Cavanagh — Bass",
+      "Duncan Patterson — Bass, keyboards",
+      "Shaun Steels — Drums",
+      "Martin Powell — Keyboards, violin",
+      "Dave Pybus — Bass",
+      "Les Smith — Keyboards"
+    ]
+  },
+  "tiamat": {
+    "source": "Tiamat (band)",
+    "current": [
+      "Johan Edlund — Vocals",
+      "Per Wiberg — Keyboards",
+      "Lars Sköld — Drums",
+      "Gustaf Hielm — Bass",
+      "Simon Johansson — Guitar"
+    ]
+  },
+  "moonspell": {
+    "source": "Moonspell",
+    "current": [
+      "Fernando Ribeiro — Lead vocals",
+      "Pedro Paixão — Keyboards, sampler, programming",
+      "Ricardo Amorim — Guitars, backing vocals",
+      "Aires Pereira — Bass",
+      "Hugo Ribeiro — Drums"
+    ]
+  },
+  "draconian": {
+    "source": "Draconian (band)",
+    "current": [
+      "Anders Jacobsson — Unclean vocals",
+      "Johan Ericson — Lead guitar",
+      "Lisa Johansson — Clean vocals",
+      "Daniel Arvidsson — Bass",
+      "Niklas Nord — Rhythm guitar",
+      "Daniel Johansson — Drums"
+    ]
+  },
+  "the-69-eyes": {
+    "source": "The 69 Eyes",
+    "current": [
+      "Jyrki 69 — Lead vocals",
+      "Jussi 69 — Drums",
+      "Bazie — Lead guitar, backing vocals",
+      "Timo-Timo — Rhythm guitar",
+      "Archzie — Bass, backing vocals"
+    ]
+  },
+  "katatonia": {
+    "source": "Katatonia",
+    "current": [
+      "Jonas Renkse",
+      "Niklas Sandin",
+      "Daniel Moilanen",
+      "Nico Elgstrand",
+      "Sebastian Svalland"
+    ]
+  },
+  "the-gathering": {
+    "source": "The Gathering (band)",
+    "current": [
+      "René Rutten — Guitars, theremin, flute, keyboards, percussion",
+      "Anneke van Giersbergen — Lead vocals, guitars",
+      "Hugo Prinsen Geerligs — Bass, guitar, flute, additional keyboards, percussion",
+      "Hans Rutten — Drums",
+      "Frank Boeijen — Keyboards, synthesizer"
+    ]
+  },
+  "fates-warning": {
+    "source": "Fates Warning",
+    "current": [
+      "Jim Matheos",
+      "Ray Alder",
+      "Joey Vera",
+      "Bobby Jarzombek",
+      "Michael Abdow"
+    ]
+  },
+  "symphony-x": {
+    "source": "Symphony X",
+    "current": [
+      "Michael Romeo",
+      "Michael Pinnella",
+      "Russell Allen",
+      "Jason Rullo — Drums",
+      "Michael LePond"
+    ]
+  },
+  "evergrey": {
+    "source": "Evergrey",
+    "current": [
+      "Tom S. Englund — Vocals, guitar",
+      "Johan Niemann — Bass, backing vocals",
+      "Rikard Zander — Keyboards, backing vocals",
+      "Simen Sandnes — Drums",
+      "Stephen Platt — Guitar"
+    ]
+  },
+  "pain-of-salvation": {
+    "source": "Pain of Salvation",
+    "current": [
+      "Daniel Gildenlöw",
+      "Léo Margarit",
+      "Daniel Karlsson",
+      "Johan Hallgren"
+    ]
+  },
+  "riverside": {
+    "source": "Riverside (band)",
+    "current": [
+      "Piotr Kozieradzki — Drums, percussion",
+      "Michał Łapaj — Keyboards, backing vocals"
+    ]
+  },
+  "haken": {
+    "source": "Haken (band)",
+    "current": [
+      "Ross Jennings — Lead vocals",
+      "Richard Henshall — Guitars, keyboards, backing vocals",
+      "Raymond Hearne — Drums, backing vocals, tuba",
+      "Peter Jones — Keyboards, backing vocals"
+    ]
+  },
+  "between-the-buried-and-me": {
+    "source": "Between the Buried and Me",
+    "current": [
+      "Tommy Giles Rogers — Lead vocals, keyboards",
+      "Paul Waggoner — Lead guitar, backing and additional clean vocals",
+      "Dan Briggs — Bass",
+      "Blake Richardson — Drums"
+    ]
+  },
+  "mastodon": {
+    "source": "Mastodon (band)",
+    "current": [
+      "Brann Dailor — Drums, percussion",
+      "Bill Kelliher — Rhythm guitar, backing vocals",
+      "Troy Sanders — Bass, lead vocals",
+      "João Nogueira",
+      "Nick Johnston — Lead guitar, backing vocals",
+      "– keyboards, synthesizer"
+    ]
+  },
+  "leprous": {
+    "source": "Leprous",
+    "current": [
+      "Einar Solberg — Lead vocals, keyboards",
+      "Tor Oddmund Suhrke — Guitars, backing vocals",
+      "Robin Ognedal — Guitars, backing vocals",
+      "Baard Kolstad — Drums",
+      "Simen Børven — Bass, backing vocals"
+    ]
+  },
+  "meshuggah": {
+    "source": "Meshuggah",
+    "current": [
+      "Jens Kidman — Lead vocals",
+      "Fredrik Thordendal — Lead guitar",
+      "Tomas Haake — Drums, backing and spoken vocals",
+      "Mårten Hagström — Rhythm guitar, backing vocals",
+      "Dick Lövgren — Bass"
+    ]
+  },
+  "periphery": {
+    "source": "Periphery (band)",
+    "current": [
+      "Misha \"Bulb\" Mansoor — Guitar, programming, synthesizer",
+      "Jake Bowen — Guitar, programming, synthesizer",
+      "Matt Halpern — Drums",
+      "Spencer Sotelo — Lead vocals",
+      "Mark Holcomb — Guitar"
+    ]
+  },
+  "therion": {
+    "source": "Therion (band)",
+    "current": [
+      "Christofer Johnsson — Guitars, keyboards, programming, Hammond organ, orchestral arrangement",
+      "Thomas Vikström — Vocals",
+      "Lori Lewis — Vocals",
+      "Christian Vidal — Guitar",
+      "Nalle Påhlsson — Bass",
+      "Sami Karppinen — Drums"
+    ]
+  },
+  "xandria": {
+    "source": "Xandria",
+    "current": [
+      "Marco Heubaum — Rhythm guitar",
+      "Ambre Vourvahis — Vocals",
+      "Dimitrios Gatsios — Drums",
+      "Rob Klawonn — Lead guitar"
+    ]
+  },
+  "visions-of-atlantis": {
+    "source": "Visions of Atlantis",
+    "current": [
+      "Clémentine Delauney — Female vocals",
+      "Michele Guaitoli — Male vocals",
+      "Thomas Caser — Drums",
+      "Christian Douscha — Guitars",
+      "Herbert Glos — Bass"
+    ]
+  },
+  "apocalyptica": {
+    "source": "Apocalyptica",
+    "current": [
+      "Eicca Toppinen — Bandleader, lead cello",
+      "Perttu Kivilaakso — Lead cello",
+      "Paavo Lötjönen — Rhythm/bass cello"
+    ]
+  },
+  "evanescence": {
+    "source": "Evanescence",
+    "current": [
+      "Amy Lee — Lead vocals, piano, keyboards, harp",
+      "Tim McCord — Guitar",
+      "Will Hunt — Drums",
+      "Troy McLawhorn — Guitar",
+      "Emma Anzai — Bass, backing vocals"
+    ]
+  },
+  "amaranthe": {
+    "source": "Amaranthe",
+    "current": [
+      "Olof Mörck — Guitars, keyboards, synthesizers",
+      "Elize Ryd — Female clean vocals",
+      "Morten Løwe Sørensen — Drums",
+      "Johan Andreassen — Bass",
+      "Nils Molin — Male clean vocals",
+      "Mikael Sehlin — Harsh vocals"
+    ]
+  },
+  "sirenia": {
+    "source": "Sirenia (band)",
+    "current": [
+      "Morten Veland — Guitars, harsh vocals, other instruments on studio",
+      "Emmanuelle Zoldan — Female vocals",
+      "Nils Courbaron — Guitars",
+      "Michael Brush — Drums"
+    ]
+  },
+  "finntroll": {
+    "source": "Finntroll",
+    "current": [
+      "Samuli \"Skrymer\" Ponsimaa — Guitar",
+      "Henri \"Trollhorn\" Sorvali — Keyboards, guitars",
+      "Sami \"Tundra\" Uusitalo — Bass",
+      "Mathias \"Vreth\" Lillmåns — Vocals",
+      "Heikki \"Mörkö\" Saari — Drums",
+      "Mikael \"Routa\" Karlbom — Guitar",
+      "Aleksi Virta — Keyboards"
+    ]
+  },
+  "turisas": {
+    "source": "Turisas",
+    "current": [
+      "Mathias \"Warlord\" Nygård — Vocals, keyboards, percussion",
+      "Jussi Wickström — Guitars, backing vocals, bass on album \"Battle Metal\"",
+      "Olli Vänskä — Violin, backing vocals",
+      "Jaakko Jakku — Drums",
+      "Jesper Anastasiadis — Bass, backing vocals"
+    ]
+  },
+  "moonsorrow": {
+    "source": "Moonsorrow",
+    "current": [
+      "Ville Sorvali — Bass, lead vocals",
+      "Henri Sorvali — Rhythm and lead guitars, backing and lead vocals, keyboards",
+      "Markus Eurén — Keyboards, backing vocals",
+      "Mitja Harvilahti — Lead and rhythm guitars, backing vocals",
+      "Marko Tarvonen — Drums, backing vocals, acoustic guitar, percussion"
+    ]
+  },
+  "alestorm": {
+    "source": "Alestorm",
+    "current": [
+      "Christopher Bowes — Lead vocals, keytar",
+      "Gareth Murdock — Bass, backing vocals",
+      "Peter Alcorn — Drums, percussion",
+      "Elliot Vernon — Keyboards, unclean vocals, tin whistle",
+      "Máté Bodor — Guitars, backing vocals"
+    ]
+  },
+  "heidevolk": {
+    "source": "Heidevolk",
+    "current": [
+      "Rowan Roodbaert",
+      "Mat van Baest",
+      "Jacco Bühnebeest",
+      "Joost den Vellenknotscher",
+      "Koen Vuurdichter"
+    ]
+  },
+  "tyr": {
+    "source": "Týr (band)",
+    "current": [
+      "Heri Joensen — Guitars, lead vocals",
+      "Gunnar H. Thomsen — Bass, backing vocals",
+      "Tadeusz Rieckmann — Drums",
+      "Hans Hammer — Guitars"
+    ]
+  },
+  "equilibrium": {
+    "source": "Equilibrium (band)",
+    "current": [
+      "Fabian Getto — Vocals",
+      "René Berthiaume",
+      "Skadi Rosehurst",
+      "Tuval \"Hati\" Refaeli — Drums"
+    ]
+  },
+  "orphaned-land": {
+    "source": "Orphaned Land",
+    "current": [
+      "Kobi Farhi — Lead vocals",
+      "Uri Zelcha — Bass",
+      "Chen Balbus",
+      "Matan Shmuely — Drums, percussion",
+      "Idan Amsalem — Guitars, bouzouki, backing vocals"
+    ]
+  },
+  "primordial": {
+    "source": "Primordial (band)",
+    "current": [
+      "Alan Averill \"Nemtheanga\" — Vocals",
+      "Ciáran MacUiliam — Guitar",
+      "Pól MacAmhlaigh — Bass",
+      "Simon O'Laoghaire"
+    ]
+  },
+  "elvenking": {
+    "source": "Elvenking (band)",
+    "current": [
+      "Aydan",
+      "Damnagoras",
+      "Headmatt",
+      "Lethien",
+      "Jakob",
+      "Symohn"
+    ]
+  },
+  "nine-inch-nails": {
+    "source": "Nine Inch Nails",
+    "current": [
+      "Trent Reznor — Lead and backing vocals, guitars, keyboards, synthesizers, piano, programming, bass, saxophone, drums, percussion",
+      "Atticus Ross — Keyboards, synthesizers, programming, bass, backing vocals"
+    ]
+  },
+  "kmfdm": {
+    "source": "KMFDM",
+    "current": [
+      "Sascha Konietzko — Vocals, guitars, bass, programming, keyboards, synthesizer, percussion, drums",
+      "Lucia Cifarelli — Vocals, keyboards",
+      "Andy Selway — Drums, programming",
+      "Tidor Nieddu — Guitars"
+    ]
+  },
+  "static-x": {
+    "source": "Static-X",
+    "current": [
+      "Tony Campos — Bass, backing vocals",
+      "Koichi Fukuda — Lead guitar, keyboards, programming",
+      "Ken Jay — Drums",
+      "Xer0 — Lead vocals, rhythm guitar, programming"
+    ]
+  },
+  "filter": {
+    "source": "Filter (band)",
+    "current": [
+      "Jonny Radtke",
+      "Bobby Miller",
+      "Elias Mallin",
+      "Richard Patrick",
+      "The Sun Comes Out Tonight",
+      "The Algorithm",
+      "Crazy Eyes"
+    ]
+  },
+  "exhorder": {
+    "source": "Exhorder",
+    "current": [
+      "Kyle Thomas — Vocals",
+      "Jason VieBrooks — Bass",
+      "Pat O'Brien — Lead guitar"
+    ]
+  },
+  "down": {
+    "source": "Down (band)",
+    "current": [
+      "Phil Anselmo — Lead vocals",
+      "Pepper Keenan — Guitar, backing vocals",
+      "Kirk Windstein — Guitar, backing vocals",
+      "Pat Bruders — Bass",
+      "Jimmy Bower — Drums"
+    ]
+  },
+  "crowbar": {
+    "source": "Crowbar (American band)",
+    "current": [
+      "Kirk Windstein — Vocals, rhythm guitar",
+      "Pat Bruders — Bass",
+      "Tommy Buckley — Drums",
+      "Matt Brunson — Lead guitar"
+    ]
+  },
+  "chimaira": {
+    "source": "Chimaira",
+    "current": [
+      "Mark Hunter — Lead vocals",
+      "Rob Arnold — Lead guitar",
+      "Matt DeVries — Rhythm guitar",
+      "Chris Spicuzza — Keyboards, electronics, backing vocals",
+      "Jim LaMarca — Bass",
+      "Austin D'Amond — Drums"
+    ]
+  },
+  "devildriver": {
+    "source": "DevilDriver",
+    "current": [
+      "Dez Fafara — Vocals",
+      "Jon Miller — Bass",
+      "Alex Lee — Lead guitar",
+      "Davier Pérez Ortega — Drums",
+      "Gabe Mangold — Rhythm guitar"
+    ]
+  },
+  "soulfly": {
+    "source": "Soulfly",
+    "current": [
+      "Max Cavalera — Lead vocals, rhythm guitar",
+      "Zyon Cavalera — Drums, percussion",
+      "Mike DeLeon — Lead guitar",
+      "Igor A. Cavaleracite web"
+    ]
+  },
+  "prong": {
+    "source": "Prong (band)",
+    "current": [
+      "Tommy Victor",
+      "Christopher Dean",
+      "Tyler Bogliole"
+    ]
+  },
+  "five-finger-death-punch": {
+    "source": "Five Finger Death Punch",
+    "current": [
+      "Zoltan Bathory — Guitar",
+      "Ivan Moody — Lead vocals, occasional keyboards",
+      "Chris Kael — Bass, backing vocals",
+      "Charlie Engen — Drums",
+      "Andy James — Guitar"
+    ]
+  },
+  "black-label-society": {
+    "source": "Black Label Society",
+    "current": [
+      "Zakk Wylde — Lead guitar, lead vocals, piano",
+      "John DeServio — Bass, backing vocals",
+      "Dario Lorina — Rhythm guitar, backing vocals",
+      "Jeff Fabb — Drums"
+    ]
+  },
+  "limp-bizkit": {
+    "source": "Limp Bizkit",
+    "current": [
+      "Fred Durst — Lead vocals",
+      "John Otto — Drums",
+      "Wes Borland — Guitar, backing vocals",
+      "DJ Lethal — Turntables, sampling, keyboards, programming"
+    ]
+  },
+  "linkin-park": {
+    "source": "Linkin Park",
+    "current": [
+      "Brad Delson — Lead guitar",
+      "Mike Shinoda — Lead and rap vocals, keyboards, sampler, programming, synthesizer",
+      "Joe Hahn — Turntables, synthesizer, sampler, programming",
+      "Dave \"Phoenix\" Farrell — Bass",
+      "Emily Armstrong — Lead vocals",
+      "Colin Brittain — Drums, backing vocals"
+    ]
+  },
+  "papa-roach": {
+    "source": "Papa Roach",
+    "current": [
+      "Jacoby Shaddix — Lead vocals, keyboards, programming, percussion",
+      "Jerry Horton — Guitars, backing vocals",
+      "Tobin Esperance — Bass, programming, backing vocals",
+      "Tony Palermo — Drums"
+    ]
+  },
+  "disturbed": {
+    "source": "Disturbed",
+    "current": [
+      "Dan Donegan — Guitar",
+      "Mike Wengren — Drums",
+      "David Draiman — Lead vocals",
+      "John Moyer — Bass, backing vocals"
+    ]
+  },
+  "staind": {
+    "source": "Staind",
+    "current": [
+      "Aaron Lewis — Lead vocals, rhythm guitar",
+      "Mike Mushok — Lead guitar",
+      "Johnny April — Bass, backing vocals",
+      "Sal Giancarelli — Drums"
+    ]
+  },
+  "godsmack": {
+    "source": "Godsmack",
+    "current": [
+      "Sully Erna — Lead vocals, rhythm guitar, keyboards",
+      "Robbie Merrill — Bass",
+      "Sam Koltun — Lead guitar, backing vocals"
+    ]
+  },
+  "coal-chamber": {
+    "source": "Coal Chamber",
+    "current": [
+      "Dez Fafara — Lead vocals",
+      "Miguel \"Meegs\" Rascón — Guitars, keyboards, backing vocals",
+      "Mikey Cox",
+      "Nadja Peulen — Bass"
+    ]
+  },
+  "drowning-pool": {
+    "source": "Drowning Pool",
+    "current": [
+      "Stevie Benton — Bass",
+      "Mike Luce — Drums",
+      "C.J. Pierce",
+      "Ryan McCombs — Lead vocals"
+    ]
+  },
+  "pod": {
+    "source": "P.O.D.",
+    "current": [
+      "Sonny Sandoval",
+      "Traa Daniels",
+      "Marcos Curiel",
+      "Zachary Christopherr — Drums"
+    ]
+  },
+  "mudvayne": {
+    "source": "Mudvayne",
+    "current": [
+      "Greg Tribbett — Lead guitar, backing vocals",
+      "Matthew McDonough — Drums, keyboards",
+      "Chad Gray — Lead vocals",
+      "Ryan Martinie — Bass"
+    ]
+  },
+  "sevendust": {
+    "source": "Sevendust",
+    "current": [
+      "Vinnie Hornsby — Bass",
+      "Morgan Rose — Drums, backing vocals",
+      "John Connolly — Rhythm guitar",
+      "Lajon Witherspoon — Lead vocals",
+      "Clint Lowery — Lead guitar, backing vocals"
+    ]
+  },
+  "chevelle": {
+    "source": "Chevelle (band)",
+    "current": [
+      "Pete Loeffler — Lead vocals, guitar",
+      "Sam Loeffler — Drums"
+    ]
+  },
+  "skindred": {
+    "source": "Skindred",
+    "current": [
+      "Benji Webbe — Lead vocals",
+      "Mikey Demus — Guitars, backing vocals",
+      "Arya Goggin — Drums"
+    ]
+  },
+  "as-i-lay-dying": {
+    "source": "As I Lay Dying (band)",
+    "current": [
+      "Tim Lambesis — Lead vocals, keyboards",
+      "Chris Clancy — Bass, clean vocals",
+      "Bill Hudson — Guitars",
+      "Don Vedda — Guitars, backing vocals",
+      "Tim Yeung — Drums"
+    ]
+  },
+  "all-that-remains": {
+    "source": "All That Remains (band)",
+    "current": [
+      "Philip Labonte — Lead vocals",
+      "Mike Martin — Rhythm guitar",
+      "Matt Deis — Bass",
+      "Anthony Barone — Drums",
+      "Ken Susi — Lead guitar"
+    ]
+  },
+  "bullet-for-my-valentine": {
+    "source": "Bullet for My Valentine",
+    "current": [
+      "Matthew \"Matt\" Tuck — Lead vocals, rhythm guitar",
+      "Michael \"Padge\" Paget — Lead guitar, backing vocals",
+      "Jamie Mathias — Bass, backing vocals",
+      "Jason Bowld — Drums, percussion"
+    ]
+  },
+  "bring-me-the-horizon": {
+    "source": "Bring Me the Horizon",
+    "current": [
+      "Oli Sykes — Lead vocals",
+      "Lee Malia — Lead guitar",
+      "Matt Kean — Bass",
+      "Matt Nicholls — Drums"
+    ]
+  },
+  "august-burns-red": {
+    "source": "August Burns Red",
+    "current": [
+      "JB Brubaker",
+      "Brent Rambler — Rhythm guitar",
+      "Matt Greiner — Drums, piano",
+      "Jake Luhrs — Lead vocals",
+      "Dustin Davidson — Bass, backing vocals"
+    ]
+  },
+  "underoath": {
+    "source": "Underoath",
+    "current": [
+      "Aaron Gillespie — Drums, clean vocals",
+      "Christopher Dudley — Keyboards, synthesizer, sampler, programming",
+      "Timothy McTague — Guitar, backing vocals",
+      "Grant Brandell — Bass",
+      "Spencer Chamberlain — Lead vocals"
+    ]
+  },
+  "atreyu": {
+    "source": "Atreyu",
+    "current": [
+      "Dan Jacobs — Guitar, backing vocals",
+      "Brandon Saller — Clean vocals, keyboards, piano, programming, additional guitar",
+      "Travis Miguel — Guitar, backing vocals",
+      "Marc \"Porter\" McKnight — Bass, backing vocals",
+      "Kyle Rosa — Drums, backing vocals"
+    ]
+  },
+  "shadows-fall": {
+    "source": "Shadows Fall",
+    "current": [
+      "Jonathan Donais — Lead guitar, backing vocals",
+      "Matt Bachand — Rhythm guitar, clean vocals",
+      "Paul Romanko — Bass",
+      "Brian Fair — Lead vocals",
+      "Jason Bittner — Drums"
+    ]
+  },
+  "unearth": {
+    "source": "Unearth",
+    "current": [
+      "Buz McGrath — Lead guitar",
+      "Trevor Phipps — Lead vocals",
+      "Chris O'Toole — Bass, backing vocals",
+      "Mike Justian — Drums",
+      "Peter Layman — Rhythm guitar, backing vocals"
+    ]
+  },
+  "darkest-hour": {
+    "source": "Darkest Hour (band)",
+    "current": [
+      "John Henry — Vocals",
+      "Mike Schleibaum — Rhythm guitar",
+      "Aaron Deal — Bass",
+      "Travis Orbin — Drums",
+      "Nico Santora — Lead guitar"
+    ]
+  },
+  "converge": {
+    "source": "Converge (band)",
+    "current": [
+      "Jacob Bannon — Lead vocals",
+      "Kurt Ballou — Guitar, backing vocals",
+      "Nate Newton — Bass, backing vocals",
+      "Ben Koller — Drums"
+    ]
+  },
+  "heaven-shall-burn": {
+    "source": "Heaven Shall Burn",
+    "current": [
+      "Maik Weichert — Guitars",
+      "Marcus Bischoff — Vocals",
+      "Eric Bischoff — Bass",
+      "Alexander Dietz — Guitars",
+      "Christian Bass — Drums"
+    ]
+  },
+  "caliban": {
+    "source": "Caliban (band)",
+    "current": [
+      "Andreas Dörner — Lead vocals",
+      "Denis Schmidt — Rhythm guitar",
+      "Marc Görtz — Lead guitar",
+      "Patrick Grün — Drums",
+      "Kenneth Iain Duncan — Bass, clean vocals"
+    ]
+  },
+  "the-devil-wears-prada": {
+    "source": "The Devil Wears Prada (band)",
+    "current": [
+      "Jeremy DePoyster — Rhythm guitar, lead vocals",
+      "Mike Hranica — Lead vocals",
+      "Kyle Sipress — Lead guitar, backing vocals",
+      "Jonathan Gering — Keyboards, synthesizers, programming, backing vocals",
+      "Giuseppe Capolupo — Drums"
+    ]
+  },
+  "hatebreed": {
+    "source": "Hatebreed",
+    "current": [
+      "Jamey Jasta — Lead vocals",
+      "Matt Byrne — Drums",
+      "Frank Novinec — Rhythm guitar, backing vocals",
+      "Wayne Lozinak — Lead guitar, backing vocals"
+    ]
+  },
+  "three-days-grace": {
+    "source": "Three Days Grace",
+    "current": [
+      "Adam Gontier — Lead vocals",
+      "Neil Sanderson — Drums",
+      "Brad Walst — Bass",
+      "Barry Stock — Lead guitar",
+      "Matt Walst — Lead vocals"
+    ]
+  },
+  "spiritbox": {
+    "source": "Spiritbox",
+    "current": [
+      "Courtney LaPlante — Lead vocals",
+      "Mike Stringer — Guitar, backing vocals",
+      "Zev Rose",
+      "Josh Gilbert — Bass, backing vocals"
+    ]
+  },
+  "the-rolling-stones": {
+    "source": "The Rolling Stones",
+    "current": [
+      "Mick Jagger",
+      "Keith Richards",
+      "Ronnie Wood"
+    ]
+  },
+  "the-who": {
+    "source": "The Who",
+    "current": [
+      "Roger Daltrey — Lead and backing vocals, rhythm guitar, harmonica, percussion, ukulele",
+      "Pete Townshend — Lead and rhythm guitar, backing and lead vocals, keyboards"
+    ]
+  },
+  "eagles": {
+    "source": "Eagles (band)",
+    "current": [
+      "Don Henley",
+      "Joe Walsh",
+      "Timothy B. Schmit",
+      "Vince Gill — Rhythm and lead guitars, backing and lead vocals"
+    ]
+  },
+  "queen": {
+    "source": "Queen (band)",
+    "current": [
+      "Brian May — Guitars, backing and occasional lead vocals, keyboards, bass guitar",
+      "Roger Taylor — Drums, backing and occasional lead vocals, percussion, guitars, keyboards, bass guitar"
+    ]
+  },
+  "journey": {
+    "source": "Journey (band)",
+    "current": [
+      "Neal Schon — Lead guitar, backing vocals",
+      "Jonathan Cain — Keyboards, backing vocals, rhythm guitar, harmonica",
+      "Deen Castronovo — Drums, backing and lead vocals",
+      "Arnel Pineda — Lead vocals",
+      "Jason Derlatka — Keyboards, backing and lead vocals",
+      "Todd Jensen — Bass, backing vocals"
+    ]
+  },
+  "heart": {
+    "source": "Heart (band)",
+    "current": [
+      "Ann Wilson — Lead and backing vocals, flute, autoharp, acoustic guitar, piano, maracas",
+      "Nancy Wilson — Rhythm, lead and acoustic guitar, backing and lead vocals, harmonica, mandolin, keyboards",
+      "Ryan Waters — Lead and rhythm guitar, backing vocals",
+      "Ryan Wariner — Lead and rhythm guitar, backing vocals",
+      "Paul Moak — Keyboards, rhythm and lead guitar, backing vocals",
+      "Tony Lucido — Bass",
+      "Sean T. Lane — Drums"
+    ]
+  },
+  "styx": {
+    "source": "Styx (band)",
+    "current": [
+      "James \"J.Y.\" Young — Guitars, backing and lead vocals, occasional keyboards",
+      "Chuck Panozzo — Bass, backing vocals",
+      "Tommy Shaw — Guitars, lead and backing vocals, occasional mandolin and banjo",
+      "Todd Sucherman — Drums, percussion, occasional backing vocals",
+      "Lawrence Gowan — Keyboards, lead and backing vocals, occasional acoustic guitar",
+      "Will Evankovich — Guitar, backing vocals, occasional mandolin and keyboards",
+      "Terry Gowan — Bass, backing vocals"
+    ]
+  },
+  "ac-dc": {
+    "source": "AC/DC",
+    "current": [
+      "Angus Young — Lead guitar, occasional backing vocals",
+      "Phil Rudd — Drums",
+      "Cliff Williams — Bass guitar, backing vocals",
+      "Brian Johnson — Lead vocals",
+      "Stevie Young — Rhythm guitar, backing vocals"
+    ]
+  },
+  "aerosmith": {
+    "source": "Aerosmith",
+    "current": [
+      "Steven Tyler — Lead vocals, keyboards, harmonica, percussion",
+      "Tom Hamilton — Bass, backing vocals",
+      "Joey Kramer — Drums, percussion",
+      "Joe Perry — Guitar, backing and occasional lead vocals",
+      "Brad Whitford — Guitar, backing vocals",
+      "(see for others)"
+    ]
+  },
+  "guns-n-roses": {
+    "source": "Guns N' Roses",
+    "current": [
+      "Axl Rose — Lead vocals, piano, keyboards, percussion",
+      "Duff McKagan — Bass guitar, backing and occasional lead vocals",
+      "Slash — Lead and rhythm guitar, occasional backing vocals",
+      "Dizzy Reed — Keyboards, piano, backing vocals, percussion",
+      "Richard Fortus — Rhythm and lead guitar, backing vocals",
+      "Melissa Reese — Synthesizers, keyboards, backing vocals, sub-bass, programming, percussion",
+      "Isaac Carpenter — Drums"
+    ]
+  },
+  "the-cult": {
+    "source": "The Cult",
+    "current": [
+      "Ian Astbury — Lead vocals, percussion",
+      "Billy Duffy — Guitars",
+      "John Tempesta — Drums, percussion",
+      "Charlie Jones — Bass, backing vocals"
+    ]
+  },
+  "airbourne": {
+    "source": "Airbourne (band)",
+    "current": [
+      "Joel O'Keeffe — Lead vocals, lead guitar",
+      "Ryan O'Keeffe — Drums, percussion",
+      "Justin Street \"Streety\" — Bass guitar, backing vocals",
+      "Brett \"Bretty\" Tyrrell — Rhythm guitar, backing vocals"
+    ]
+  },
+  "rival-sons": {
+    "source": "Rival Sons",
+    "current": [
+      "Jay Buchanan — Lead vocals, rhythm guitar, harmonica",
+      "Scott Holiday — Lead guitar, backing vocals",
+      "Michael Miley",
+      "Dave Beste — Bass guitar, backing vocals",
+      "Mike Miley — Drums, percussion, backing vocals"
+    ]
+  },
+  "hawkwind": {
+    "source": "Hawkwind",
+    "current": [
+      "Dave Brock — Vocals, guitars, keyboards, synthesisers",
+      "Thighpaulsandra — Keyboards, synthesizers"
+    ]
+  },
+  "the-brian-jonestown-massacre": {
+    "source": "The Brian Jonestown Massacre",
+    "current": [
+      "Anton Newcombe — Lead vocals, guitar",
+      "Ricky Maymi — Guitar",
+      "Joel Gion — Tambourine",
+      "Emil Nikolaisen — Keyboards, guitars, vocals, flute, taishogoto"
+    ]
+  },
+  "king-gizzard-and-the-lizard-wizard": {
+    "source": "King Gizzard & the Lizard Wizard",
+    "current": [
+      "Stu Mackenzie — Vocals, guitars, keyboards, flute, bass guitar, percussion, sitar, piano, organ, violin, clarinet, saxophone, zurna, drums",
+      "Joey Walker — Guitars, vocals, bass guitar, keyboards, piano, setar, percussion",
+      "Michael \"Cavs\" Cavanagh — Drums, percussion, vocals",
+      "Lucas Harwood — Bass guitar, piano, keyboards, percussion, vocals",
+      "Cook Craig — Guitars, bass guitar, piano, keyboards, percussion, vocals",
+      "Ambrose Kenny-Smith — Vocals, harmonicas, keyboards, percussion, piano, saxophone, guitar, organ"
+    ]
+  },
+  "jethro-tull": {
+    "source": "Jethro Tull (band)",
+    "current": [
+      "Ian Anderson — Vocals, flute, acoustic and electric guitar, other instruments",
+      "David Goodier — Bass",
+      "John O'Hara — Keyboards, accordion, vocals",
+      "Scott Hammond — Drums",
+      "Jack Clark — Guitar"
+    ]
+  },
+  "camel": {
+    "source": "Camel (band)",
+    "current": [
+      "Andrew Latimer — Guitar, flute, recorder, keyboards, percussion, vocals",
+      "Colin Bass — Bass, acoustic guitar, keyboards, vocals",
+      "Pete Jones"
+    ]
+  },
+  "porcupine-tree": {
+    "source": "Porcupine Tree",
+    "current": [
+      "Steven Wilson — Vocals, guitars, bass, keyboards, various instruments",
+      "Richard Barbieri — Synthesizers, keyboards, piano, sound processing",
+      "Gavin Harrison — Drums, percussion"
+    ]
+  },
+  "marillion": {
+    "source": "Marillion",
+    "current": [
+      "Steve Rothery — Electric and acoustic guitars",
+      "Mark Kelly — Keyboards, samples and effects, backing vocals, programming",
+      "Pete Trewavas — Bass guitars, backing vocals, additional studio samples and effects",
+      "Ian Mosley — Drums, percussion",
+      "Steve Hogarth — Lead vocals, additional keyboards, additional live guitars, percussion"
+    ]
+  },
+  "the-mars-volta": {
+    "source": "The Mars Volta",
+    "current": [
+      "Omar Rodríguez-López",
+      "Cedric Bixler-Zavala",
+      "Eva Gardner",
+      "Marcel Rodríguez-López",
+      "Leo Genovese",
+      "Linda-Philomène Tsoungui",
+      "Teri Gender Bender"
+    ]
+  },
+  "spocks-beard": {
+    "source": "Spock's Beard",
+    "current": [
+      "Alan Morse — Guitars, backing and occasional lead vocals",
+      "Dave Meros — Bass, backing and occasional lead vocals",
+      "Ryo Okumoto — Keyboards, backing vocals",
+      "Ted Leonard — Lead vocals, guitar, keyboards",
+      "Nick Potters — Drums, percussion, backing vocals"
+    ]
+  },
+  "the-decemberists": {
+    "source": "The Decemberists",
+    "current": [
+      "Colin Meloy — Lead vocals, rhythm guitar, bouzouki, harmonica",
+      "Chris Funk — Lead guitar, pedal steel, mandolin, banjo, theremin, backing vocals",
+      "Jenny Conlee — Keyboards, piano, accordion, glockenspiel, backing vocals",
+      "Nate Query — Double bass, bass guitar, cello, backing vocals",
+      "John Moen — Drums, backing vocals"
+    ]
+  },
+  "lynyrd-skynyrd": {
+    "source": "Lynyrd Skynyrd",
+    "current": [
+      "Johnny Van Zant — Lead vocals",
+      "Rickey Medlocke — Drums",
+      "Michael Cartellone — Drums",
+      "Mark Matejka — Guitar, backing vocals",
+      "Peter Keys — Keyboards",
+      "Damon Johnson — Guitar"
+    ]
+  },
+  "38-special": {
+    "source": "38 Special (band)",
+    "current": [
+      "Don Barnes — Lead and backing vocals, guitar, harmonica, mandolin, piano",
+      "Barry Dunaway — Bass, backing vocals",
+      "Jerry Riggs — Guitar, backing vocals",
+      "Bobby Capps — Keyboards, backing and lead vocals",
+      "Gary \"Madman\" Moffatt — Drums, percussion"
+    ]
+  },
+  "drive-by-truckers": {
+    "source": "Drive-By Truckers",
+    "current": [
+      "Patterson Hood — Lead vocals, guitar, mandolin",
+      "Mike Cooley — Guitar, lead vocals, banjo, harmonica",
+      "Jay Gonzalez — Keyboards, guitar, accordion, musical saw, backing vocals",
+      "Brad Morgan — Drums",
+      "Matt Patton — Bass, backing and occasional lead vocals"
+    ]
+  },
+  "the-hellacopters": {
+    "source": "The Hellacopters",
+    "current": [
+      "Nicke Andersson",
+      "Robert Eriksson",
+      "Anders Lindström",
+      "Dolf De Borst"
+    ]
+  },
+  "the-libertines": {
+    "source": "The Libertines",
+    "current": [
+      "Carl Barât — Lead vocals, guitar, keyboards, saxophone",
+      "Pete Doherty — Lead vocals, guitar, harmonica",
+      "John Hassall — Bass, backing and occasional lead vocals",
+      "Gary Powell — Drums, percussion, keyboards, backing vocals"
+    ]
+  },
+  "the-damned": {
+    "source": "The Damned (band)",
+    "current": [
+      "Dave Vanian",
+      "Captain Sensible — Guitars, backing vocals",
+      "Paul Gray — Bass, backing vocals",
+      "Monty Oxymoron — Keyboards, backing vocals",
+      "Rat Scabies — Drums, backing vocals"
+    ]
+  },
+  "bad-brains": {
+    "source": "Bad Brains",
+    "current": [
+      "Dr. Know — Lead guitar, keyboards",
+      "Darryl Jenifer — Bass",
+      "H.R. — Lead vocals, occasional rhythm guitar",
+      "Earl Hudson — Drums"
+    ]
+  },
+  "bad-religion": {
+    "source": "Bad Religion",
+    "current": [
+      "Greg Graffin — Lead vocals",
+      "Brett Gurewitz — Guitar, backing vocals",
+      "Jay Bentley — Bass, backing vocals",
+      "Brian Baker — Guitar, backing vocals",
+      "Mike Dimkich — Guitar",
+      "Jamie Miller — Drums"
+    ]
+  },
+  "descendents": {
+    "source": "Descendents",
+    "current": [
+      "Bill Stevenson — Drums, occasional backing vocals",
+      "Milo Aukerman — Vocals",
+      "Karl Alvarez — Bass, backing vocals",
+      "Stephen Egerton — Guitar, backing vocals"
+    ]
+  },
+  "misfits": {
+    "source": "Misfits (band)",
+    "current": [
+      "Glenn Danzig — Lead vocals",
+      "Jerry Only — Bass guitar, backing vocals",
+      "Doyle Wolfgang von Frankenstein — Lead guitar",
+      "Dave Lombardo — Drums",
+      "Acey Slade — Rhythm guitar, backing vocals"
+    ]
+  },
+  "the-stranglers": {
+    "source": "The Stranglers",
+    "current": [
+      "Jean-Jacques Burnel — Bass, lead and backing vocals",
+      "Baz Warne — Guitar, backing vocals",
+      "Jim Macaulay — Drums, percussion, backing vocals",
+      "Toby Hounsham — Keyboards, backing vocals"
+    ]
+  },
+  "the-cure": {
+    "source": "The Cure",
+    "current": [
+      "Robert Smith — Vocals, guitars, six-string bass, keyboards",
+      "Simon Gallup — Bass guitar",
+      "Roger O'Donnell — Keyboards",
+      "Jason Cooper — Drums, percussion",
+      "Reeves Gabrels — Guitars, six-string bass"
+    ]
+  },
+  "public-image-ltd": {
+    "source": "Public Image Ltd",
+    "current": [
+      "John Lydon — Lead vocals, keyboards, violin, saxophone",
+      "Lu Edmonds — Guitar, keyboards, saz, banjo, backing vocals",
+      "Scott Firth — Bass, keyboards, synthesisers, backing vocals",
+      "Mark Roberts — Drums"
+    ]
+  },
+  "idles": {
+    "source": "Idles",
+    "current": [
+      "Adam Devonshire — Bass guitar, backing vocals",
+      "Joe Talbot — Lead vocals",
+      "Mark Bowen — Lead guitar, backing vocals",
+      "Lee Kiernan — Rhythm guitar, backing vocals",
+      "Jon Beavis — Drums, backing vocals"
+    ]
+  },
+  "fontaines-dc": {
+    "source": "Fontaines D.C.",
+    "current": [
+      "Grian Chatten — Lead vocals, percussion, acoustic guitar, accordion",
+      "Conor Curley — Guitar, keyboards, synthesizer, piano, bass guitar, backing vocals",
+      "Conor \"Deego\" Deegan III — Bass guitar, guitar, backing vocals",
+      "Tom Coll — Drums, percussion, guitar",
+      "Carlos O'Connell — Guitar, keyboards, synthesizer, piano, backing vocals"
+    ]
+  },
+  "the-smashing-pumpkins": {
+    "source": "The Smashing Pumpkins",
+    "current": [
+      "Billy Corgan — Lead vocals, guitar, keyboards, bass",
+      "James Iha — Guitar, bass, backing and occasional lead vocals",
+      "Jimmy Chamberlin — Drums",
+      "D'arcy Wretzky — Bass, backing and occasional lead vocals",
+      "Melissa Auf der Maur — Bass, backing vocals",
+      "Mike Byrne — Drums, backing vocals, keyboards",
+      "Nicole Fiorentino — Bass, backing vocals, keyboards",
+      "Jeff Schroeder — Guitar, backing vocals, keyboards"
+    ]
+  },
+  "radiohead": {
+    "source": "Radiohead",
+    "current": [
+      "Ed O'Brien — Guitar, effects, backing vocals",
+      "Thom Yorke — Vocals, guitar, piano, keyboards",
+      "Colin Greenwood — Bass guitar",
+      "Philip Selway — Drums, percussion",
+      "Jonny Greenwood — Guitar, keyboards, ondes Martenot, orchestral arrangements",
+      "Template:Infobox musical artist"
+    ]
+  },
+  "weezer": {
+    "source": "Weezer",
+    "current": [
+      "Rivers Cuomo — Lead vocals, guitar",
+      "Patrick Wilson — Drums",
+      "Brian Bell — Guitar, backing and occasional lead vocals",
+      "Scott Shriner — Bass, backing and occasional lead vocals"
+    ]
+  },
+  "foo-fighters": {
+    "source": "Foo Fighters",
+    "current": [
+      "Dave Grohl — Lead vocals, guitar",
+      "Nate Mendel — Bass",
+      "Pat Smear — Guitar",
+      "Chris Shiflett — Guitar, backing vocals",
+      "Rami Jaffee — Keyboards",
+      "Ilan Rubin — Drums, backing vocals"
+    ]
+  },
+  "red-hot-chili-peppers": {
+    "source": "Red Hot Chili Peppers",
+    "current": [
+      "Flea — Bass, backing vocals",
+      "Anthony Kiedis — Lead vocals",
+      "Chad Smith — Drums, percussion",
+      "John Frusciante — Guitars, backing vocals"
+    ]
+  },
+  "muse": {
+    "source": "Muse (band)",
+    "current": [
+      "Matt Bellamy — Lead vocals, guitars, keyboards",
+      "Dominic Howard — Drums, percussion",
+      "Chris Wolstenholme — Bass, backing vocals"
+    ]
+  },
+  "u2": {
+    "source": "U2",
+    "current": [
+      "Bono — Lead vocals, harmonica",
+      "The Edge — Guitar, keyboards, backing vocals",
+      "Adam Clayton — Bass guitar",
+      "Larry Mullen Jr. — Drums, percussion"
+    ]
+  },
+  "garbage": {
+    "source": "Garbage (band)",
+    "current": [
+      "Duke Erikson — Guitar, bass, keyboards, backing vocals",
+      "Butch Vig — Drums, percussion, keyboards, backing vocals",
+      "Steve Marker — Guitar, bass, keyboards, backing vocals",
+      "Shirley Manson — Lead vocals, guitar, keyboards"
+    ]
+  },
+  "placebo": {
+    "source": "Placebo (band)",
+    "current": [
+      "Brian Molko",
+      "Stefan Olsdal"
+    ]
+  },
+  "alice-in-chains": {
+    "source": "Alice in Chains",
+    "current": [
+      "Jerry Cantrell — Lead guitar, backing and lead vocals",
+      "Sean Kinney — Drums, percussion",
+      "Mike Inez — Bass",
+      "William DuVall — Rhythm guitar, lead and backing vocals"
+    ]
+  },
+  "mudhoney": {
+    "source": "Mudhoney",
+    "current": [
+      "Mark Arm — Lead vocals, rhythm guitar",
+      "Steve Turner — Lead guitar, backing vocals",
+      "Dan Peters — Drums, percussion, backing vocals",
+      "Guy Maddison — Bass guitar, backing vocals"
+    ]
+  },
+  "melvins": {
+    "source": "Melvins",
+    "current": [
+      "Buzz Osborne — Guitars, lead vocals",
+      "Dale Crover — Drums, percussion, backing vocals",
+      "Steven Shane McDonald — Bass, backing vocals",
+      "Coady Willis — Drums, backing vocals"
+    ]
+  },
+  "l7": {
+    "source": "L7 (band)",
+    "current": [
+      "Donita Sparks — Lead vocals, guitar",
+      "Suzi Gardner — Guitar, backing and occasional lead vocals",
+      "Demetra Plakas — Drums, backing vocals",
+      "Janis Tanaka — Bass, backing vocals"
+    ]
+  },
+  "stone-temple-pilots": {
+    "source": "Stone Temple Pilots",
+    "current": [
+      "Robert DeLeo — Bass, backing vocals",
+      "Eric Kretz — Drums, percussion",
+      "Dean DeLeo — Guitars",
+      "Jeff Gutt — Lead vocals"
+    ]
+  },
+  "bush": {
+    "source": "Bush (British band)",
+    "current": [
+      "Gavin Rossdale — Lead vocals, rhythm guitar",
+      "Chris Traynor — Lead guitar",
+      "Corey Britz — Bass, backing vocals",
+      "Nik Hughes — Drums"
+    ]
+  },
+  "candlebox": {
+    "source": "Candlebox",
+    "current": [
+      "Kevin Martin — Lead vocals, additional guitar",
+      "Adam Kury — Bass, backing vocals",
+      "Peter Klett — Lead guitar, backing vocals",
+      "Island Styles — Rhythm guitar, backing vocals",
+      "BJ Kerwin — Drums"
+    ]
+  },
+  "modest-mouse": {
+    "source": "Modest Mouse",
+    "current": [
+      "Isaac Brock",
+      "Russell Higbee",
+      "Ben Massarella",
+      "Damon Cox",
+      "Keith Karman",
+      "Simon O'Connor"
+    ]
+  },
+  "built-to-spill": {
+    "source": "Built to Spill",
+    "current": [
+      "Doug Martsch — Lead vocals, guitar, keyboards",
+      "Melanie Radford — Bass",
+      "Teresa Esguerra — Drums"
+    ]
+  },
+  "arctic-monkeys": {
+    "source": "Arctic Monkeys",
+    "current": [
+      "Matt Helders — Drums, backing and occasional lead vocals",
+      "Alex Turner — Lead vocals, guitars",
+      "Jamie Cook — Guitars",
+      "Nick O'Malley — Bass guitar, backing vocals"
+    ]
+  },
+  "spoon": {
+    "source": "Grinspoon",
+    "current": [
+      "Pat Davern",
+      "Phil Jamieson",
+      "Joe Hansen",
+      "Kristian Hopes"
+    ]
+  },
+  "oasis": {
+    "source": "Oasis (band)",
+    "current": [
+      "Liam Gallagher — Lead vocals, percussion",
+      "Noel Gallagher — Lead guitar, backing and lead vocals",
+      "Paul \"Bonehead\" Arthurs — Rhythm guitar",
+      "Gem Archer — Rhythm and lead guitar",
+      "Andy Bell — Bass",
+      "Paul \"Guigsy\" McGuigan — Bass",
+      "Alan \"Whitey\" White — Drums, percussion",
+      "Tony McCarroll — Drums"
+    ]
+  },
+  "suede": {
+    "source": "Suede (band)",
+    "current": [
+      "Brett Anderson — Lead vocals, percussion",
+      "Mat Osman — Bass",
+      "Simon Gilbert — Drums",
+      "Richard Oakes — Guitar",
+      "Neil Codling — Keyboards, synthesizer, piano, guitar, backing vocals"
+    ]
+  },
+  "my-bloody-valentine": {
+    "source": "My Bloody Valentine (band)",
+    "current": [
+      "Kevin Shields — Vocals, guitars, bass, sampler",
+      "Colm Ó Cíosóig — Drums, sampler",
+      "Debbie Googe — Bass",
+      "Bilinda Butcher — Vocals, guitars"
+    ]
+  },
+  "swervedriver": {
+    "source": "Swervedriver",
+    "current": [
+      "Adam Franklin — Vocals, rhythm and lead guitar",
+      "Jimmy Hartridge — Lead guitar",
+      "Mikey Jones — Drums, percussion",
+      "Mick Quinn — Bass"
+    ]
+  },
+  "nothing": {
+    "source": "Nothing (band)",
+    "current": [
+      "Domenic \"Nicky\" Palermo — Vocals, guitar",
+      "Doyle Martin — Guitar, backing vocals",
+      "Zachary Jones — Drums",
+      "Bobb Bruno — Bass",
+      "Cam Smith — Guitar, backing vocals"
+    ]
+  },
+  "diiv": {
+    "source": "DIIV",
+    "current": [
+      "Zachary Cole Smith — Lead vocals, guitar",
+      "Andrew Bailey — Guitar",
+      "Colin Caulfield — Bass",
+      "Ben Newman — Drums"
+    ]
+  },
+  "green-day": {
+    "source": "Green Day",
+    "current": [
+      "Billie Joe Armstrong — Lead vocals, guitar",
+      "Mike Dirnt — Bass",
+      "Tré Cool — Drums, percussion, occasional backing and lead vocals and guitar"
+    ]
+  },
+  "fall-out-boy": {
+    "source": "Fall Out Boy",
+    "current": [
+      "Patrick Stump — Lead vocals",
+      "Joe Trohman — Guitar, backing vocals",
+      "Pete Wentz — Bass guitar, unclean and backing vocals",
+      "Andy Hurley — Drums, percussion"
+    ]
+  },
+  "my-chemical-romance": {
+    "source": "My Chemical Romance",
+    "current": [
+      "Gerard Way — Lead vocals",
+      "Ray Toro — Lead guitar, backing vocals",
+      "Mikey Way — Bass guitar",
+      "Frank Iero — Rhythm guitar, backing vocals"
+    ]
+  },
+  "taking-back-sunday": {
+    "source": "Taking Back Sunday",
+    "current": [
+      "John Nolan — Vocals, lead guitar, keyboards",
+      "Adam Lazzara — Lead vocals",
+      "Shaun Cooper — Bass guitar"
+    ]
+  },
+  "good-charlotte": {
+    "source": "Good Charlotte",
+    "current": [
+      "Joel Madden — Lead vocals",
+      "Benji Madden — Guitars, backing and occasional lead vocals",
+      "Paul Thomas — Bass",
+      "Billy Martin — Guitars, keyboards"
+    ]
+  }
+}

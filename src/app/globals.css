@@ -1,0 +1,108 @@
+@import "tailwindcss";
+
+:root {
+  color-scheme: dark;
+  --background: #000000;
+  --foreground: #ededed;
+}
+
+/* Accent palettes. `static` keeps every variable in the output so the
+   `var(--color-*)` glows in src/lib/accents.ts always resolve. */
+@theme static {
+  --color-blood-400: #e5484d;
+  --color-blood-500: #c8102e;
+  --color-blood-600: #9d0b22;
+  --color-blood-700: #6b0716;
+
+  --color-occult-400: #a78bfa;
+  --color-occult-500: #7c3aed;
+  --color-occult-600: #5b21b6;
+  --color-occult-700: #3b0f7a;
+
+  --color-steel-400: #aab4c0;
+  --color-steel-500: #7c8794;
+  --color-steel-600: #56606b;
+  --color-steel-700: #38404a;
+
+  /* Rock Atlas accents. */
+  --color-ember-400: #fb923c;
+  --color-ember-500: #f97316;
+  --color-ember-600: #c2410c;
+  --color-ember-700: #7c2d12;
+
+  --color-amber-400: #fbbf24;
+  --color-amber-500: #f59e0b;
+  --color-amber-600: #b45309;
+  --color-amber-700: #78350f;
+
+  --color-azure-400: #60a5fa;
+  --color-azure-500: #3b82f6;
+  --color-azure-600: #1d4ed8;
+  --color-azure-700: #1e3a8a;
+
+  --color-jade-400: #34d399;
+  --color-jade-500: #10b981;
+  --color-jade-600: #047857;
+  --color-jade-700: #064e3b;
+
+  --color-rose-400: #f472b6;
+  --color-rose-500: #ec4899;
+  --color-rose-600: #be185d;
+  --color-rose-700: #831843;
+}
+
+@theme inline {
+  --color-background: var(--background);
+  --color-foreground: var(--foreground);
+  --font-sans: var(--font-geist-sans);
+  --font-mono: var(--font-geist-mono);
+  /* PLACEHOLDER display face for subgenre titles and the wordmark. It follows
+     --display-font, which each atlas sets (see below), so the same classes
+     give blackletter on Metal and a poster face on Rock. Swap the fonts loaded
+     in src/app/layout.tsx for custom ones. */
+  --font-display: var(--display-font), "Times New Roman", serif;
+}
+
+:root {
+  --display-font: var(--font-pirata);
+}
+
+[data-atlas="rock"] {
+  --display-font: var(--font-bebas);
+}
+
+/* The poster face is lighter and more condensed, so give it room. */
+[data-atlas="rock"] .font-display {
+  letter-spacing: 0.04em;
+}
+
+/* Stops the page jumping sideways when the modal locks scrolling. */
+html {
+  scrollbar-gutter: stable;
+}
+
+body {
+  background: var(--background);
+  color: var(--foreground);
+}
+
+/* Grid entrance. Add `rise` and set `--i` (grid index) for a staggered fade-up.
+   `backwards` fill (not `both`) so no transform lingers once it ends, which
+   would trap the hover z-index inside the wrapper. */
+@keyframes rise {
+  from {
+    opacity: 0;
+    transform: translateY(16px);
+  }
+}
+
+.rise {
+  animation: rise 0.5s cubic-bezier(0.22, 1, 0.36, 1) backwards;
+  animation-delay: calc(var(--i, 0) * 70ms);
+}
+
+@media (prefers-reduced-motion: reduce) {
+  .rise {
+    animation: none;
+  }
+}
