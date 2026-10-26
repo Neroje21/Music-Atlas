@@ -41,24 +41,6 @@ Open <http://localhost:3000>.
 
 Set `SITE_URL` (see [`.env.example`](.env.example)) when deploying so `robots.txt` and the sitemap use your real address. Both files are generated into `public/` by `scripts/generate-seo.mjs`, which runs automatically before `dev` and `build`.
 
-## Deploy to GitHub Pages
-
-The site can be published as a static export; the included workflow does it for you. This repository is deployed at <https://neroje21.github.io/Music-Atlas/>, and every push to `main` redeploys it (progress is on the repository's **Actions** tab).
-
-To set it up for a copy of this repository:
-
-1. Push the repository to GitHub (branch `main`).
-2. In the repository, open **Settings → Pages** and set **Source** to **GitHub Actions**. Until you do, the **Deploy to GitHub Pages** workflow fails at its first step.
-3. Push to `main` (or run the **Deploy to GitHub Pages** workflow by hand). The site appears at `https://<user>.github.io/<repository>/`.
-
-What the Pages build does differently, switched on by `GITHUB_PAGES=true` in [`next.config.ts`](next.config.ts) so a normal build is unaffected: it exports plain files (`output: "export"`), serves them under `/<repository>/` (`BASE_PATH`), and turns Cache Components off, which static export can't use.
-
-Things to know:
-
-- Band of the Day is picked in the visitor's browser (by UTC date), so it works without a server. That is true for the normal build too.
-- GitHub Pages can't send response headers, so the Content Security Policy goes in a `<meta>` tag there. The other security headers (`X-Frame-Options`, `nosniff`, referrer and permissions policies) are not available on Pages.
-- Search engines only read `robots.txt` from a domain's root, so on a project site (`user.github.io/repository/`) it is ignored. The sitemap still works if you submit it in Search Console. Both are fine on a custom domain.
-- To try the Pages build locally: set `GITHUB_PAGES=true` and `BASE_PATH=/your-repo`, run `npm run build`, and serve the `out/` folder from a folder named like your repo. On Windows, Next's exporter writes some prefetch files with the wrong names (a Linux runner, as on GitHub, is fine), so links still work but you'll see harmless 404s for prefetch requests.
 
 ## Project layout
 
